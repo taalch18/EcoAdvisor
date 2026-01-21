@@ -1,0 +1,1000 @@
+CompanyID: 1. Ticker: 1. Industry: Retail. ESG Overall: 59.2. GrowthRate: 6.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 628.8, Revenue: 734.5.
+CompanyID: 2. Ticker: 2. Industry: Retail. ESG Overall: 66.3. GrowthRate: 14.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 20376.3, Revenue: 4371.5.
+CompanyID: 3. Ticker: 3. Industry: Transportation. ESG Overall: 34.3. GrowthRate: 9.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1020.7, Revenue: 479.8.
+CompanyID: 4. Ticker: 4. Industry: Technology. ESG Overall: 64.1. GrowthRate: 17.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 42400.4, Revenue: 7675.6.
+CompanyID: 5. Ticker: 5. Industry: Finance. ESG Overall: 48.0. GrowthRate: -3.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6674.6, Revenue: 3162.1.
+CompanyID: 6. Ticker: 6. Industry: Transportation. ESG Overall: 73.1. GrowthRate: 6.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7887.8, Revenue: 3297.0.
+CompanyID: 7. Ticker: 7. Industry: Healthcare. ESG Overall: 58.4. GrowthRate: 5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 38.0, Revenue: 6444.2.
+CompanyID: 8. Ticker: 8. Industry: Healthcare. ESG Overall: 81.6. GrowthRate: -0.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10386.3, Revenue: 7117.1.
+CompanyID: 9. Ticker: 9. Industry: Technology. ESG Overall: 63.5. GrowthRate: 15.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5954.9, Revenue: 6764.0.
+CompanyID: 10. Ticker: 10. Industry: Technology. ESG Overall: 69.6. GrowthRate: -11.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 412517.1, Revenue: 104787.3.
+CompanyID: 11. Ticker: 11. Industry: Energy. ESG Overall: 70.3. GrowthRate: -12.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 158.9, Revenue: 170.6.
+CompanyID: 12. Ticker: 12. Industry: Finance. ESG Overall: 53.6. GrowthRate: 1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10452.9, Revenue: 3577.8.
+CompanyID: 13. Ticker: 13. Industry: Consumer Goods. ESG Overall: 56.1. GrowthRate: 19.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3789.7, Revenue: 1671.6.
+CompanyID: 14. Ticker: 14. Industry: Transportation. ESG Overall: 46.1. GrowthRate: 15.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 678.5, Revenue: 1623.4.
+CompanyID: 15. Ticker: 15. Industry: Healthcare. ESG Overall: 58.6. GrowthRate: 23.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 61972.3, Revenue: 11489.1.
+CompanyID: 16. Ticker: 16. Industry: Energy. ESG Overall: 59.8. GrowthRate: 2.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5866.9, Revenue: 1249.8.
+CompanyID: 17. Ticker: 17. Industry: Utilities. ESG Overall: 68.1. GrowthRate: 15.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6876.5, Revenue: 4630.8.
+CompanyID: 18. Ticker: 18. Industry: Energy. ESG Overall: 75.6. GrowthRate: 6.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 35497.2, Revenue: 14675.7.
+CompanyID: 19. Ticker: 19. Industry: Technology. ESG Overall: 57.1. GrowthRate: 16.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 39614.5, Revenue: 180810.4.
+CompanyID: 20. Ticker: 20. Industry: Technology. ESG Overall: 65.8. GrowthRate: 17.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 31522.2, Revenue: 8581.5.
+CompanyID: 21. Ticker: 21. Industry: Energy. ESG Overall: 37.0. GrowthRate: -10.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3066.5, Revenue: 1100.4.
+CompanyID: 22. Ticker: 22. Industry: Manufacturing. ESG Overall: 60.1. GrowthRate: 5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2210.1, Revenue: 1009.7.
+CompanyID: 23. Ticker: 23. Industry: Healthcare. ESG Overall: 64.6. GrowthRate: -14.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2909.9, Revenue: 924.5.
+CompanyID: 24. Ticker: 24. Industry: Technology. ESG Overall: 56.7. GrowthRate: 1.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 108912.3, Revenue: 16884.5.
+CompanyID: 25. Ticker: 25. Industry: Utilities. ESG Overall: 49.4. GrowthRate: -1.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 542.4, Revenue: 522.7.
+CompanyID: 26. Ticker: 26. Industry: Healthcare. ESG Overall: 56.3. GrowthRate: 29.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 49236.8, Revenue: 13120.6.
+CompanyID: 27. Ticker: 27. Industry: Healthcare. ESG Overall: 67.5. GrowthRate: 19.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12161.5, Revenue: 6291.5.
+CompanyID: 28. Ticker: 28. Industry: Technology. ESG Overall: 81.7. GrowthRate: 10.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 18520.1, Revenue: 6674.2.
+CompanyID: 29. Ticker: 29. Industry: Transportation. ESG Overall: 28.9. GrowthRate: -2.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1648.5, Revenue: 638.4.
+CompanyID: 30. Ticker: 30. Industry: Transportation. ESG Overall: 31.7. GrowthRate: 12.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 390.6, Revenue: 1356.5.
+CompanyID: 31. Ticker: 31. Industry: Transportation. ESG Overall: 28.7. GrowthRate: -0.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3812.0, Revenue: 836.2.
+CompanyID: 32. Ticker: 32. Industry: Utilities. ESG Overall: 55.2. GrowthRate: 6.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 451.9, Revenue: 556.0.
+CompanyID: 33. Ticker: 33. Industry: Finance. ESG Overall: 69.9. GrowthRate: -4.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1480.1, Revenue: 1244.4.
+CompanyID: 34. Ticker: 34. Industry: Energy. ESG Overall: 34.8. GrowthRate: 16.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 43800.0, Revenue: 21020.8.
+CompanyID: 35. Ticker: 35. Industry: Healthcare. ESG Overall: 76.1. GrowthRate: 13.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6455.6, Revenue: 2196.1.
+CompanyID: 36. Ticker: 36. Industry: Healthcare. ESG Overall: 76.6. GrowthRate: -1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11714.4, Revenue: 2872.1.
+CompanyID: 37. Ticker: 37. Industry: Energy. ESG Overall: 77.3. GrowthRate: -12.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 19649.3, Revenue: 4183.6.
+CompanyID: 38. Ticker: 38. Industry: Energy. ESG Overall: 41.3. GrowthRate: 1.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 481.9, Revenue: 1039.9.
+CompanyID: 39. Ticker: 39. Industry: Transportation. ESG Overall: 56.2. GrowthRate: 14.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2414.7, Revenue: 2744.5.
+CompanyID: 40. Ticker: 40. Industry: Transportation. ESG Overall: 59.6. GrowthRate: 3.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 266.1, Revenue: 4126.1.
+CompanyID: 41. Ticker: 41. Industry: Energy. ESG Overall: 64.9. GrowthRate: -10.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5147.9, Revenue: 6929.7.
+CompanyID: 42. Ticker: 42. Industry: Energy. ESG Overall: 48.9. GrowthRate: -8.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2524.7, Revenue: 922.7.
+CompanyID: 43. Ticker: 43. Industry: Transportation. ESG Overall: 44.3. GrowthRate: 7.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 898.5, Revenue: 423.4.
+CompanyID: 44. Ticker: 44. Industry: Healthcare. ESG Overall: 61.2. GrowthRate: -2.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 78853.3, Revenue: 11371.6.
+CompanyID: 45. Ticker: 45. Industry: Retail. ESG Overall: 47.7. GrowthRate: -4.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 88.7, Revenue: 662.3.
+CompanyID: 46. Ticker: 46. Industry: Healthcare. ESG Overall: 55.4. GrowthRate: 2.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 41685.9, Revenue: 12120.4.
+CompanyID: 47. Ticker: 47. Industry: Consumer Goods. ESG Overall: 65.1. GrowthRate: -3.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 221.9, Revenue: 296.1.
+CompanyID: 48. Ticker: 48. Industry: Technology. ESG Overall: 52.2. GrowthRate: 6.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17230.4, Revenue: 4740.9.
+CompanyID: 49. Ticker: 49. Industry: Retail. ESG Overall: 18.7. GrowthRate: 11.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 704.2, Revenue: 656.1.
+CompanyID: 50. Ticker: 50. Industry: Consumer Goods. ESG Overall: 69.3. GrowthRate: 13.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10905.2, Revenue: 2316.1.
+CompanyID: 51. Ticker: 51. Industry: Transportation. ESG Overall: 48.8. GrowthRate: 7.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 370.6, Revenue: 299.0.
+CompanyID: 52. Ticker: 52. Industry: Consumer Goods. ESG Overall: 67.4. GrowthRate: 6.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7005.2, Revenue: 2495.3.
+CompanyID: 53. Ticker: 53. Industry: Utilities. ESG Overall: 72.7. GrowthRate: -3.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 730.7, Revenue: 656.7.
+CompanyID: 54. Ticker: 54. Industry: Healthcare. ESG Overall: 69.5. GrowthRate: 18.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 52639.8, Revenue: 13316.3.
+CompanyID: 55. Ticker: 55. Industry: Finance. ESG Overall: 77.9. GrowthRate: 4.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 882.9, Revenue: 625.3.
+CompanyID: 56. Ticker: 56. Industry: Utilities. ESG Overall: 57.9. GrowthRate: 9.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1141.1, Revenue: 774.0.
+CompanyID: 57. Ticker: 57. Industry: Utilities. ESG Overall: 35.7. GrowthRate: 1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3585.0, Revenue: 1102.7.
+CompanyID: 58. Ticker: 58. Industry: Transportation. ESG Overall: 42.7. GrowthRate: 0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 93.4, Revenue: 742.1.
+CompanyID: 59. Ticker: 59. Industry: Utilities. ESG Overall: 38.6. GrowthRate: 1.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1238.7, Revenue: 657.1.
+CompanyID: 60. Ticker: 60. Industry: Manufacturing. ESG Overall: 34.5. GrowthRate: 10.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1320.5, Revenue: 1335.2.
+CompanyID: 61. Ticker: 61. Industry: Consumer Goods. ESG Overall: 81.8. GrowthRate: 4.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 222.0, Revenue: 3061.3.
+CompanyID: 62. Ticker: 62. Industry: Technology. ESG Overall: 60.6. GrowthRate: 11.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 79270.5, Revenue: 10231.1.
+CompanyID: 63. Ticker: 63. Industry: Consumer Goods. ESG Overall: 72.9. GrowthRate: 1.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5652.2, Revenue: 1282.8.
+CompanyID: 64. Ticker: 64. Industry: Consumer Goods. ESG Overall: 45.9. GrowthRate: 13.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1570.0, Revenue: 2299.3.
+CompanyID: 65. Ticker: 65. Industry: Transportation. ESG Overall: 68.9. GrowthRate: 1.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1099.8, Revenue: 814.4.
+CompanyID: 66. Ticker: 66. Industry: Consumer Goods. ESG Overall: 65.3. GrowthRate: 0.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7197.9, Revenue: 1995.3.
+CompanyID: 67. Ticker: 67. Industry: Manufacturing. ESG Overall: 56.6. GrowthRate: -3.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 324.8, Revenue: 462.2.
+CompanyID: 68. Ticker: 68. Industry: Manufacturing. ESG Overall: 60.6. GrowthRate: 6.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 31706.9, Revenue: 6162.4.
+CompanyID: 69. Ticker: 69. Industry: Energy. ESG Overall: 52.7. GrowthRate: 6.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 44934.3, Revenue: 10995.3.
+CompanyID: 70. Ticker: 70. Industry: Retail. ESG Overall: 49.7. GrowthRate: 4.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 328.7, Revenue: 2379.3.
+CompanyID: 71. Ticker: 71. Industry: Consumer Goods. ESG Overall: 46.1. GrowthRate: 18.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6447.0, Revenue: 4797.4.
+CompanyID: 72. Ticker: 72. Industry: Utilities. ESG Overall: 45.0. GrowthRate: 9.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 714.5, Revenue: 705.0.
+CompanyID: 73. Ticker: 73. Industry: Transportation. ESG Overall: 58.4. GrowthRate: 16.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 430.2, Revenue: 2043.7.
+CompanyID: 74. Ticker: 74. Industry: Energy. ESG Overall: 72.9. GrowthRate: 17.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 995.1, Revenue: 3541.1.
+CompanyID: 75. Ticker: 75. Industry: Technology. ESG Overall: 75.7. GrowthRate: 9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 22242.3, Revenue: 5019.2.
+CompanyID: 76. Ticker: 76. Industry: Technology. ESG Overall: 69.3. GrowthRate: 15.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 248688.0, Revenue: 22155.4.
+CompanyID: 77. Ticker: 77. Industry: Utilities. ESG Overall: 71.2. GrowthRate: -1.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 134.8, Revenue: 422.1.
+CompanyID: 78. Ticker: 78. Industry: Technology. ESG Overall: 50.7. GrowthRate: -12.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17699.7, Revenue: 6942.5.
+CompanyID: 79. Ticker: 79. Industry: Healthcare. ESG Overall: 66.1. GrowthRate: 2.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 61574.7, Revenue: 10727.6.
+CompanyID: 80. Ticker: 80. Industry: Utilities. ESG Overall: 67.9. GrowthRate: 5.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 477.5, Revenue: 1519.0.
+CompanyID: 81. Ticker: 81. Industry: Healthcare. ESG Overall: 83.5. GrowthRate: -7.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4968.9, Revenue: 5215.9.
+CompanyID: 82. Ticker: 82. Industry: Technology. ESG Overall: 72.3. GrowthRate: 1.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 43066.8, Revenue: 6096.2.
+CompanyID: 83. Ticker: 83. Industry: Healthcare. ESG Overall: 64.8. GrowthRate: -4.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3804.9, Revenue: 3696.9.
+CompanyID: 84. Ticker: 84. Industry: Consumer Goods. ESG Overall: 18.1. GrowthRate: 15.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2769.7, Revenue: 4337.2.
+CompanyID: 85. Ticker: 85. Industry: Manufacturing. ESG Overall: 64.5. GrowthRate: 9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4128.1, Revenue: 2382.0.
+CompanyID: 86. Ticker: 86. Industry: Finance. ESG Overall: 51.2. GrowthRate: 0.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3056.2, Revenue: 3293.6.
+CompanyID: 87. Ticker: 87. Industry: Technology. ESG Overall: 75.6. GrowthRate: 8.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 155521.9, Revenue: 58549.7.
+CompanyID: 88. Ticker: 88. Industry: Manufacturing. ESG Overall: 82.8. GrowthRate: 5.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 89.4, Revenue: 1624.2.
+CompanyID: 89. Ticker: 89. Industry: Utilities. ESG Overall: 36.9. GrowthRate: 13.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2873.0, Revenue: 1668.6.
+CompanyID: 90. Ticker: 90. Industry: Energy. ESG Overall: 30.5. GrowthRate: -8.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3945.0, Revenue: 6572.5.
+CompanyID: 91. Ticker: 91. Industry: Manufacturing. ESG Overall: 65.4. GrowthRate: -4.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7690.1, Revenue: 2792.0.
+CompanyID: 92. Ticker: 92. Industry: Healthcare. ESG Overall: 35.4. GrowthRate: 5.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12657.6, Revenue: 2801.1.
+CompanyID: 93. Ticker: 93. Industry: Retail. ESG Overall: 66.7. GrowthRate: 7.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 418.4, Revenue: 502.4.
+CompanyID: 94. Ticker: 94. Industry: Utilities. ESG Overall: 57.8. GrowthRate: -8.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 159.5, Revenue: 275.3.
+CompanyID: 95. Ticker: 95. Industry: Retail. ESG Overall: 71.1. GrowthRate: 3.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3276.8, Revenue: 1350.4.
+CompanyID: 96. Ticker: 96. Industry: Manufacturing. ESG Overall: 76.4. GrowthRate: 17.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8796.6, Revenue: 2353.3.
+CompanyID: 97. Ticker: 97. Industry: Consumer Goods. ESG Overall: 38.4. GrowthRate: 12.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5216.3, Revenue: 2594.3.
+CompanyID: 98. Ticker: 98. Industry: Energy. ESG Overall: 47.5. GrowthRate: 9.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 27431.6, Revenue: 22508.4.
+CompanyID: 99. Ticker: 99. Industry: Healthcare. ESG Overall: 64.6. GrowthRate: 11.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10314.9, Revenue: 10538.8.
+CompanyID: 100. Ticker: 100. Industry: Manufacturing. ESG Overall: 60.5. GrowthRate: 9.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2976.8, Revenue: 1664.3.
+CompanyID: 101. Ticker: 101. Industry: Energy. ESG Overall: 64.8. GrowthRate: -13.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2914.0, Revenue: 2230.7.
+CompanyID: 102. Ticker: 102. Industry: Retail. ESG Overall: 62.5. GrowthRate: -2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 282.1, Revenue: 1463.2.
+CompanyID: 103. Ticker: 103. Industry: Retail. ESG Overall: 57.5. GrowthRate: 10.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1112.2, Revenue: 1304.8.
+CompanyID: 104. Ticker: 104. Industry: Technology. ESG Overall: 72.6. GrowthRate: 8.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 84911.5, Revenue: 9998.8.
+CompanyID: 105. Ticker: 105. Industry: Finance. ESG Overall: 52.2. GrowthRate: -2.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 76714.3, Revenue: 38918.8.
+CompanyID: 106. Ticker: 106. Industry: Manufacturing. ESG Overall: 69.4. GrowthRate: 9.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13584.6, Revenue: 3263.0.
+CompanyID: 107. Ticker: 107. Industry: Finance. ESG Overall: 62.4. GrowthRate: 20.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 42929.0, Revenue: 17816.2.
+CompanyID: 108. Ticker: 108. Industry: Healthcare. ESG Overall: 76.9. GrowthRate: 8.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16796.7, Revenue: 23168.0.
+CompanyID: 109. Ticker: 109. Industry: Energy. ESG Overall: 61.6. GrowthRate: -16.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9178.3, Revenue: 4129.6.
+CompanyID: 110. Ticker: 110. Industry: Healthcare. ESG Overall: 26.6. GrowthRate: 11.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 14376.3, Revenue: 4373.5.
+CompanyID: 111. Ticker: 111. Industry: Finance. ESG Overall: 43.8. GrowthRate: -2.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3371.7, Revenue: 1068.0.
+CompanyID: 112. Ticker: 112. Industry: Retail. ESG Overall: 60.6. GrowthRate: -0.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1785.3, Revenue: 593.1.
+CompanyID: 113. Ticker: 113. Industry: Manufacturing. ESG Overall: 28.0. GrowthRate: 11.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10210.2, Revenue: 6715.5.
+CompanyID: 114. Ticker: 114. Industry: Energy. ESG Overall: 77.3. GrowthRate: -22.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 43.2, Revenue: 754.7.
+CompanyID: 115. Ticker: 115. Industry: Consumer Goods. ESG Overall: 66.3. GrowthRate: -12.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 393.2, Revenue: 337.0.
+CompanyID: 116. Ticker: 116. Industry: Retail. ESG Overall: 50.1. GrowthRate: 7.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1054.6, Revenue: 386.8.
+CompanyID: 117. Ticker: 117. Industry: Retail. ESG Overall: 73.0. GrowthRate: 10.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3484.7, Revenue: 1302.8.
+CompanyID: 118. Ticker: 118. Industry: Retail. ESG Overall: 68.1. GrowthRate: 8.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 419.7, Revenue: 1054.9.
+CompanyID: 119. Ticker: 119. Industry: Consumer Goods. ESG Overall: 42.2. GrowthRate: 3.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2519.7, Revenue: 1091.5.
+CompanyID: 120. Ticker: 120. Industry: Consumer Goods. ESG Overall: 58.7. GrowthRate: 2.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5362.0, Revenue: 3631.9.
+CompanyID: 121. Ticker: 121. Industry: Retail. ESG Overall: 55.9. GrowthRate: 1.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17.5, Revenue: 763.9.
+CompanyID: 122. Ticker: 122. Industry: Energy. ESG Overall: 60.0. GrowthRate: 9.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17532.6, Revenue: 9315.1.
+CompanyID: 123. Ticker: 123. Industry: Technology. ESG Overall: 64.1. GrowthRate: 27.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 821387.0, Revenue: 137883.0.
+CompanyID: 124. Ticker: 124. Industry: Manufacturing. ESG Overall: 40.2. GrowthRate: 2.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1496.6, Revenue: 1321.9.
+CompanyID: 125. Ticker: 125. Industry: Finance. ESG Overall: 41.9. GrowthRate: -6.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 27749.7, Revenue: 5626.2.
+CompanyID: 126. Ticker: 126. Industry: Manufacturing. ESG Overall: 47.0. GrowthRate: 13.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4147.4, Revenue: 4331.6.
+CompanyID: 127. Ticker: 127. Industry: Consumer Goods. ESG Overall: 59.8. GrowthRate: 15.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3317.3, Revenue: 3575.1.
+CompanyID: 128. Ticker: 128. Industry: Utilities. ESG Overall: 36.6. GrowthRate: 9.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 277.9, Revenue: 713.5.
+CompanyID: 129. Ticker: 129. Industry: Healthcare. ESG Overall: 50.5. GrowthRate: 7.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5235.5, Revenue: 2423.2.
+CompanyID: 130. Ticker: 130. Industry: Manufacturing. ESG Overall: 33.6. GrowthRate: -3.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3717.2, Revenue: 1816.2.
+CompanyID: 131. Ticker: 131. Industry: Finance. ESG Overall: 72.7. GrowthRate: 6.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 79537.4, Revenue: 36281.3.
+CompanyID: 132. Ticker: 132. Industry: Consumer Goods. ESG Overall: 65.3. GrowthRate: -1.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 834.2, Revenue: 749.5.
+CompanyID: 133. Ticker: 133. Industry: Consumer Goods. ESG Overall: 71.7. GrowthRate: -0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4160.2, Revenue: 840.5.
+CompanyID: 134. Ticker: 134. Industry: Healthcare. ESG Overall: 68.5. GrowthRate: -3.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15426.6, Revenue: 9486.5.
+CompanyID: 135. Ticker: 135. Industry: Transportation. ESG Overall: 54.2. GrowthRate: 6.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 808.1, Revenue: 1673.3.
+CompanyID: 136. Ticker: 136. Industry: Manufacturing. ESG Overall: 54.7. GrowthRate: -7.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1097.2, Revenue: 1033.5.
+CompanyID: 137. Ticker: 137. Industry: Manufacturing. ESG Overall: 49.7. GrowthRate: 10.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 746.6, Revenue: 879.9.
+CompanyID: 138. Ticker: 138. Industry: Energy. ESG Overall: 48.9. GrowthRate: -3.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2944.6, Revenue: 4835.0.
+CompanyID: 139. Ticker: 139. Industry: Retail. ESG Overall: 68.5. GrowthRate: 1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1463.9, Revenue: 1162.0.
+CompanyID: 140. Ticker: 140. Industry: Manufacturing. ESG Overall: 39.9. GrowthRate: 12.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1113.9, Revenue: 959.4.
+CompanyID: 141. Ticker: 141. Industry: Energy. ESG Overall: 17.8. GrowthRate: 3.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8699.6, Revenue: 7528.4.
+CompanyID: 142. Ticker: 142. Industry: Finance. ESG Overall: 66.1. GrowthRate: 3.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3477.7, Revenue: 2921.6.
+CompanyID: 143. Ticker: 143. Industry: Consumer Goods. ESG Overall: 76.5. GrowthRate: 4.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4369.4, Revenue: 1370.7.
+CompanyID: 144. Ticker: 144. Industry: Utilities. ESG Overall: 58.0. GrowthRate: 16.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 699.6, Revenue: 1779.3.
+CompanyID: 145. Ticker: 145. Industry: Energy. ESG Overall: 40.8. GrowthRate: 22.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 55981.8, Revenue: 9456.7.
+CompanyID: 146. Ticker: 146. Industry: Consumer Goods. ESG Overall: 50.8. GrowthRate: -9.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2187.2, Revenue: 1017.1.
+CompanyID: 147. Ticker: 147. Industry: Energy. ESG Overall: 49.8. GrowthRate: -0.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7300.3, Revenue: 5877.7.
+CompanyID: 148. Ticker: 148. Industry: Healthcare. ESG Overall: 50.3. GrowthRate: 13.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 48884.3, Revenue: 19327.6.
+CompanyID: 149. Ticker: 149. Industry: Technology. ESG Overall: 55.8. GrowthRate: 12.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 72081.9, Revenue: 26430.6.
+CompanyID: 150. Ticker: 150. Industry: Manufacturing. ESG Overall: 72.1. GrowthRate: 3.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9065.1, Revenue: 2485.5.
+CompanyID: 151. Ticker: 151. Industry: Healthcare. ESG Overall: 39.5. GrowthRate: 11.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 60950.1, Revenue: 14651.3.
+CompanyID: 152. Ticker: 152. Industry: Technology. ESG Overall: 66.8. GrowthRate: -6.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 135427.5, Revenue: 22132.7.
+CompanyID: 153. Ticker: 153. Industry: Consumer Goods. ESG Overall: 64.1. GrowthRate: 9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3314.3, Revenue: 1132.2.
+CompanyID: 154. Ticker: 154. Industry: Manufacturing. ESG Overall: 51.3. GrowthRate: -2.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6980.1, Revenue: 3573.5.
+CompanyID: 155. Ticker: 155. Industry: Finance. ESG Overall: 67.9. GrowthRate: 11.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6630.4, Revenue: 8538.9.
+CompanyID: 156. Ticker: 156. Industry: Technology. ESG Overall: 60.2. GrowthRate: -0.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7778.0, Revenue: 8293.8.
+CompanyID: 157. Ticker: 157. Industry: Consumer Goods. ESG Overall: 95.4. GrowthRate: -1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 21083.4, Revenue: 6055.5.
+CompanyID: 158. Ticker: 158. Industry: Energy. ESG Overall: 57.3. GrowthRate: 7.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 27013.9, Revenue: 15874.9.
+CompanyID: 159. Ticker: 159. Industry: Consumer Goods. ESG Overall: 72.5. GrowthRate: 5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2233.0, Revenue: 1508.5.
+CompanyID: 160. Ticker: 160. Industry: Utilities. ESG Overall: 51.8. GrowthRate: 6.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1604.3, Revenue: 1715.1.
+CompanyID: 161. Ticker: 161. Industry: Technology. ESG Overall: 75.6. GrowthRate: 0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 34342.4, Revenue: 4883.4.
+CompanyID: 162. Ticker: 162. Industry: Technology. ESG Overall: 70.8. GrowthRate: 11.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 186676.7, Revenue: 70943.6.
+CompanyID: 163. Ticker: 163. Industry: Energy. ESG Overall: 56.6. GrowthRate: -6.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 975.7, Revenue: 1893.8.
+CompanyID: 164. Ticker: 164. Industry: Retail. ESG Overall: 69.8. GrowthRate: 5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1002.2, Revenue: 698.8.
+CompanyID: 165. Ticker: 165. Industry: Manufacturing. ESG Overall: 38.7. GrowthRate: 1.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4256.0, Revenue: 3270.8.
+CompanyID: 166. Ticker: 166. Industry: Energy. ESG Overall: 51.1. GrowthRate: -3.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6077.3, Revenue: 896.5.
+CompanyID: 167. Ticker: 167. Industry: Energy. ESG Overall: 46.6. GrowthRate: 37.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7903.5, Revenue: 20645.2.
+CompanyID: 168. Ticker: 168. Industry: Healthcare. ESG Overall: 83.8. GrowthRate: 5.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16945.5, Revenue: 2673.6.
+CompanyID: 169. Ticker: 169. Industry: Consumer Goods. ESG Overall: 58.2. GrowthRate: 18.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 143.2, Revenue: 1570.1.
+CompanyID: 170. Ticker: 170. Industry: Energy. ESG Overall: 51.5. GrowthRate: -1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1357.2, Revenue: 443.9.
+CompanyID: 171. Ticker: 171. Industry: Utilities. ESG Overall: 55.0. GrowthRate: 4.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1359.2, Revenue: 899.6.
+CompanyID: 172. Ticker: 172. Industry: Energy. ESG Overall: 46.9. GrowthRate: 0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11993.9, Revenue: 7392.3.
+CompanyID: 173. Ticker: 173. Industry: Transportation. ESG Overall: 60.3. GrowthRate: 1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 122.4, Revenue: 1023.4.
+CompanyID: 174. Ticker: 174. Industry: Transportation. ESG Overall: 21.9. GrowthRate: -6.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 644.4, Revenue: 223.6.
+CompanyID: 175. Ticker: 175. Industry: Finance. ESG Overall: 59.4. GrowthRate: 8.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8356.0, Revenue: 11141.7.
+CompanyID: 176. Ticker: 176. Industry: Healthcare. ESG Overall: 79.4. GrowthRate: 3.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7585.8, Revenue: 3654.2.
+CompanyID: 177. Ticker: 177. Industry: Manufacturing. ESG Overall: 48.2. GrowthRate: 0.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7598.4, Revenue: 2639.9.
+CompanyID: 178. Ticker: 178. Industry: Transportation. ESG Overall: 29.6. GrowthRate: 8.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3107.4, Revenue: 6860.0.
+CompanyID: 179. Ticker: 179. Industry: Finance. ESG Overall: 91.9. GrowthRate: 15.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4746.9, Revenue: 2534.0.
+CompanyID: 180. Ticker: 180. Industry: Utilities. ESG Overall: 54.8. GrowthRate: 5.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2425.5, Revenue: 1366.7.
+CompanyID: 181. Ticker: 181. Industry: Finance. ESG Overall: 79.0. GrowthRate: 18.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10809.1, Revenue: 3865.3.
+CompanyID: 182. Ticker: 182. Industry: Manufacturing. ESG Overall: 70.0. GrowthRate: 0.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7381.5, Revenue: 3164.3.
+CompanyID: 183. Ticker: 183. Industry: Retail. ESG Overall: 61.6. GrowthRate: -1.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 406.4, Revenue: 791.8.
+CompanyID: 184. Ticker: 184. Industry: Utilities. ESG Overall: 68.3. GrowthRate: 10.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 884.2, Revenue: 1046.7.
+CompanyID: 185. Ticker: 185. Industry: Transportation. ESG Overall: 16.5. GrowthRate: 3.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3335.6, Revenue: 793.8.
+CompanyID: 186. Ticker: 186. Industry: Manufacturing. ESG Overall: 28.9. GrowthRate: -20.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1343.3, Revenue: 2602.3.
+CompanyID: 187. Ticker: 187. Industry: Utilities. ESG Overall: 44.2. GrowthRate: 2.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10536.5, Revenue: 3806.3.
+CompanyID: 188. Ticker: 188. Industry: Consumer Goods. ESG Overall: 51.5. GrowthRate: 15.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3816.6, Revenue: 6856.4.
+CompanyID: 189. Ticker: 189. Industry: Healthcare. ESG Overall: 52.8. GrowthRate: -3.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1323.6, Revenue: 2345.5.
+CompanyID: 190. Ticker: 190. Industry: Technology. ESG Overall: 71.8. GrowthRate: 9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 28719.0, Revenue: 6410.6.
+CompanyID: 191. Ticker: 191. Industry: Manufacturing. ESG Overall: 44.5. GrowthRate: -0.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1246.5, Revenue: 1004.8.
+CompanyID: 192. Ticker: 192. Industry: Consumer Goods. ESG Overall: 89.8. GrowthRate: 6.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3237.5, Revenue: 744.9.
+CompanyID: 193. Ticker: 193. Industry: Manufacturing. ESG Overall: 43.6. GrowthRate: 11.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3351.8, Revenue: 3522.6.
+CompanyID: 194. Ticker: 194. Industry: Manufacturing. ESG Overall: 92.8. GrowthRate: 4.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1124.3, Revenue: 1137.5.
+CompanyID: 195. Ticker: 195. Industry: Transportation. ESG Overall: 26.2. GrowthRate: 2.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2952.7, Revenue: 1703.0.
+CompanyID: 196. Ticker: 196. Industry: Healthcare. ESG Overall: 63.0. GrowthRate: 7.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 72.5, Revenue: 9441.1.
+CompanyID: 197. Ticker: 197. Industry: Energy. ESG Overall: 19.1. GrowthRate: 3.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4955.0, Revenue: 4374.2.
+CompanyID: 198. Ticker: 198. Industry: Manufacturing. ESG Overall: 53.3. GrowthRate: -0.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1245.0, Revenue: 370.0.
+CompanyID: 199. Ticker: 199. Industry: Retail. ESG Overall: 60.5. GrowthRate: 5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1588.1, Revenue: 743.0.
+CompanyID: 200. Ticker: 200. Industry: Consumer Goods. ESG Overall: 54.0. GrowthRate: 4.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12058.7, Revenue: 5837.6.
+CompanyID: 201. Ticker: 201. Industry: Utilities. ESG Overall: 74.7. GrowthRate: 2.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3021.2, Revenue: 2181.4.
+CompanyID: 202. Ticker: 202. Industry: Utilities. ESG Overall: 51.6. GrowthRate: -2.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8328.3, Revenue: 1757.2.
+CompanyID: 203. Ticker: 203. Industry: Energy. ESG Overall: 59.6. GrowthRate: 3.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5634.6, Revenue: 3137.3.
+CompanyID: 204. Ticker: 204. Industry: Retail. ESG Overall: 27.6. GrowthRate: 10.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2232.8, Revenue: 1091.4.
+CompanyID: 205. Ticker: 205. Industry: Energy. ESG Overall: 41.5. GrowthRate: 4.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 172858.1, Revenue: 24003.0.
+CompanyID: 206. Ticker: 206. Industry: Manufacturing. ESG Overall: 77.1. GrowthRate: -1.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1367.4, Revenue: 904.7.
+CompanyID: 207. Ticker: 207. Industry: Consumer Goods. ESG Overall: 75.3. GrowthRate: -5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 707.4, Revenue: 2020.3.
+CompanyID: 208. Ticker: 208. Industry: Manufacturing. ESG Overall: 36.3. GrowthRate: 7.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2659.8, Revenue: 22083.6.
+CompanyID: 209. Ticker: 209. Industry: Consumer Goods. ESG Overall: 60.5. GrowthRate: 6.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2268.0, Revenue: 1890.3.
+CompanyID: 210. Ticker: 210. Industry: Retail. ESG Overall: 92.8. GrowthRate: 2.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1002.4, Revenue: 1275.6.
+CompanyID: 211. Ticker: 211. Industry: Consumer Goods. ESG Overall: 69.1. GrowthRate: -3.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 946.2, Revenue: 1526.2.
+CompanyID: 212. Ticker: 212. Industry: Consumer Goods. ESG Overall: 54.7. GrowthRate: 3.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 517.9, Revenue: 1114.5.
+CompanyID: 213. Ticker: 213. Industry: Technology. ESG Overall: 75.9. GrowthRate: -4.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 523317.8, Revenue: 57751.7.
+CompanyID: 214. Ticker: 214. Industry: Utilities. ESG Overall: 44.6. GrowthRate: 4.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10534.7, Revenue: 4660.7.
+CompanyID: 215. Ticker: 215. Industry: Utilities. ESG Overall: 91.4. GrowthRate: -1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 875.5, Revenue: 1104.4.
+CompanyID: 216. Ticker: 216. Industry: Transportation. ESG Overall: 56.7. GrowthRate: 22.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11475.3, Revenue: 3973.8.
+CompanyID: 217. Ticker: 217. Industry: Manufacturing. ESG Overall: 71.3. GrowthRate: -4.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4878.1, Revenue: 3197.6.
+CompanyID: 218. Ticker: 218. Industry: Utilities. ESG Overall: 48.3. GrowthRate: -2.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 167.3, Revenue: 819.6.
+CompanyID: 219. Ticker: 219. Industry: Transportation. ESG Overall: 51.3. GrowthRate: -4.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3296.0, Revenue: 716.5.
+CompanyID: 220. Ticker: 220. Industry: Transportation. ESG Overall: 65.5. GrowthRate: -12.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 112.6, Revenue: 178.5.
+CompanyID: 221. Ticker: 221. Industry: Healthcare. ESG Overall: 44.6. GrowthRate: 22.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 40586.5, Revenue: 7864.2.
+CompanyID: 222. Ticker: 222. Industry: Technology. ESG Overall: 51.8. GrowthRate: -0.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 52956.5, Revenue: 24496.5.
+CompanyID: 223. Ticker: 223. Industry: Transportation. ESG Overall: 40.0. GrowthRate: -6.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1045.5, Revenue: 216.4.
+CompanyID: 224. Ticker: 224. Industry: Manufacturing. ESG Overall: 50.2. GrowthRate: 13.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7758.6, Revenue: 2588.3.
+CompanyID: 225. Ticker: 225. Industry: Retail. ESG Overall: 84.1. GrowthRate: 10.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3180.4, Revenue: 1543.7.
+CompanyID: 226. Ticker: 226. Industry: Healthcare. ESG Overall: 29.6. GrowthRate: -2.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13161.7, Revenue: 2743.9.
+CompanyID: 227. Ticker: 227. Industry: Transportation. ESG Overall: 55.4. GrowthRate: 1.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 722.0, Revenue: 1350.3.
+CompanyID: 228. Ticker: 228. Industry: Finance. ESG Overall: 54.6. GrowthRate: 3.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6295.6, Revenue: 3857.0.
+CompanyID: 229. Ticker: 229. Industry: Finance. ESG Overall: 37.9. GrowthRate: -4.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2418.8, Revenue: 2847.5.
+CompanyID: 230. Ticker: 230. Industry: Transportation. ESG Overall: 75.3. GrowthRate: -0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 515.3, Revenue: 549.4.
+CompanyID: 231. Ticker: 231. Industry: Technology. ESG Overall: 71.1. GrowthRate: 2.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 26805.3, Revenue: 4959.3.
+CompanyID: 232. Ticker: 232. Industry: Manufacturing. ESG Overall: 30.8. GrowthRate: -8.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1513.0, Revenue: 1257.4.
+CompanyID: 233. Ticker: 233. Industry: Transportation. ESG Overall: 60.4. GrowthRate: -1.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 141.9, Revenue: 1426.5.
+CompanyID: 234. Ticker: 234. Industry: Utilities. ESG Overall: 38.3. GrowthRate: 7.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 823.3, Revenue: 629.2.
+CompanyID: 235. Ticker: 235. Industry: Healthcare. ESG Overall: 37.5. GrowthRate: -4.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1664.4, Revenue: 647.8.
+CompanyID: 236. Ticker: 236. Industry: Retail. ESG Overall: 74.6. GrowthRate: 17.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1179.4, Revenue: 2071.9.
+CompanyID: 237. Ticker: 237. Industry: Finance. ESG Overall: 65.2. GrowthRate: -5.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1369.0, Revenue: 2768.8.
+CompanyID: 238. Ticker: 238. Industry: Retail. ESG Overall: 47.8. GrowthRate: 10.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 604.1, Revenue: 946.4.
+CompanyID: 239. Ticker: 239. Industry: Manufacturing. ESG Overall: 48.8. GrowthRate: -3.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1059.7, Revenue: 801.6.
+CompanyID: 240. Ticker: 240. Industry: Transportation. ESG Overall: 50.4. GrowthRate: 10.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13109.2, Revenue: 4040.5.
+CompanyID: 241. Ticker: 241. Industry: Finance. ESG Overall: 85.2. GrowthRate: -8.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3890.4, Revenue: 8630.6.
+CompanyID: 242. Ticker: 242. Industry: Finance. ESG Overall: 46.4. GrowthRate: 10.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 272.4, Revenue: 419.9.
+CompanyID: 243. Ticker: 243. Industry: Transportation. ESG Overall: 40.4. GrowthRate: 8.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 795.9, Revenue: 766.7.
+CompanyID: 244. Ticker: 244. Industry: Energy. ESG Overall: 65.0. GrowthRate: -2.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 44693.5, Revenue: 13969.7.
+CompanyID: 245. Ticker: 245. Industry: Finance. ESG Overall: 77.7. GrowthRate: 17.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5513.3, Revenue: 4420.6.
+CompanyID: 246. Ticker: 246. Industry: Consumer Goods. ESG Overall: 55.9. GrowthRate: 3.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1501.4, Revenue: 3709.3.
+CompanyID: 247. Ticker: 247. Industry: Consumer Goods. ESG Overall: 48.5. GrowthRate: -3.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1064.3, Revenue: 806.5.
+CompanyID: 248. Ticker: 248. Industry: Energy. ESG Overall: 24.3. GrowthRate: 6.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 40226.0, Revenue: 12545.4.
+CompanyID: 249. Ticker: 249. Industry: Healthcare. ESG Overall: 62.1. GrowthRate: 6.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3590.9, Revenue: 1214.3.
+CompanyID: 250. Ticker: 250. Industry: Manufacturing. ESG Overall: 59.1. GrowthRate: 10.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7983.2, Revenue: 3429.0.
+CompanyID: 251. Ticker: 251. Industry: Transportation. ESG Overall: 54.2. GrowthRate: 12.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2792.2, Revenue: 1020.4.
+CompanyID: 252. Ticker: 252. Industry: Consumer Goods. ESG Overall: 71.5. GrowthRate: 7.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3965.0, Revenue: 1828.9.
+CompanyID: 253. Ticker: 253. Industry: Technology. ESG Overall: 85.0. GrowthRate: 12.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 19696.2, Revenue: 3360.5.
+CompanyID: 254. Ticker: 254. Industry: Retail. ESG Overall: 47.9. GrowthRate: 8.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3023.6, Revenue: 1274.3.
+CompanyID: 255. Ticker: 255. Industry: Consumer Goods. ESG Overall: 67.5. GrowthRate: 6.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1309.4, Revenue: 3439.4.
+CompanyID: 256. Ticker: 256. Industry: Manufacturing. ESG Overall: 39.8. GrowthRate: -0.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1763.1, Revenue: 919.1.
+CompanyID: 257. Ticker: 257. Industry: Finance. ESG Overall: 57.5. GrowthRate: 8.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5031.8, Revenue: 2922.7.
+CompanyID: 258. Ticker: 258. Industry: Healthcare. ESG Overall: 57.0. GrowthRate: 20.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 25354.7, Revenue: 10126.6.
+CompanyID: 259. Ticker: 259. Industry: Healthcare. ESG Overall: 52.7. GrowthRate: 4.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1092.2, Revenue: 405.0.
+CompanyID: 260. Ticker: 260. Industry: Consumer Goods. ESG Overall: 73.7. GrowthRate: 14.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3100.6, Revenue: 3595.0.
+CompanyID: 261. Ticker: 261. Industry: Utilities. ESG Overall: 56.5. GrowthRate: 0.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1187.9, Revenue: 781.4.
+CompanyID: 262. Ticker: 262. Industry: Transportation. ESG Overall: 59.4. GrowthRate: 22.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7836.6, Revenue: 1780.7.
+CompanyID: 263. Ticker: 263. Industry: Utilities. ESG Overall: 34.0. GrowthRate: 3.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3807.5, Revenue: 1563.4.
+CompanyID: 264. Ticker: 264. Industry: Consumer Goods. ESG Overall: 54.4. GrowthRate: 11.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9682.1, Revenue: 3492.0.
+CompanyID: 265. Ticker: 265. Industry: Manufacturing. ESG Overall: 30.9. GrowthRate: -17.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 406.2, Revenue: 481.0.
+CompanyID: 266. Ticker: 266. Industry: Technology. ESG Overall: 62.6. GrowthRate: 7.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10569.1, Revenue: 11051.7.
+CompanyID: 267. Ticker: 267. Industry: Retail. ESG Overall: 54.4. GrowthRate: -6.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6655.4, Revenue: 1940.9.
+CompanyID: 268. Ticker: 268. Industry: Technology. ESG Overall: 80.6. GrowthRate: 14.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 24232.7, Revenue: 8550.5.
+CompanyID: 269. Ticker: 269. Industry: Healthcare. ESG Overall: 46.5. GrowthRate: -5.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 95.4, Revenue: 428.5.
+CompanyID: 270. Ticker: 270. Industry: Manufacturing. ESG Overall: 56.4. GrowthRate: 1.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7441.7, Revenue: 7241.8.
+CompanyID: 271. Ticker: 271. Industry: Healthcare. ESG Overall: 63.0. GrowthRate: 3.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 43793.0, Revenue: 7882.9.
+CompanyID: 272. Ticker: 272. Industry: Energy. ESG Overall: 49.5. GrowthRate: 8.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17193.4, Revenue: 4521.2.
+CompanyID: 273. Ticker: 273. Industry: Transportation. ESG Overall: 52.4. GrowthRate: 1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1390.1, Revenue: 409.5.
+CompanyID: 274. Ticker: 274. Industry: Transportation. ESG Overall: 40.5. GrowthRate: 14.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1879.8, Revenue: 1122.8.
+CompanyID: 275. Ticker: 275. Industry: Healthcare. ESG Overall: 51.8. GrowthRate: 23.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 29250.1, Revenue: 6855.6.
+CompanyID: 276. Ticker: 276. Industry: Transportation. ESG Overall: 52.7. GrowthRate: -3.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1504.3, Revenue: 975.9.
+CompanyID: 277. Ticker: 277. Industry: Transportation. ESG Overall: 39.3. GrowthRate: -3.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 577.8, Revenue: 769.7.
+CompanyID: 278. Ticker: 278. Industry: Utilities. ESG Overall: 44.2. GrowthRate: -1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2004.2, Revenue: 1968.6.
+CompanyID: 279. Ticker: 279. Industry: Consumer Goods. ESG Overall: 44.5. GrowthRate: 6.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 524.5, Revenue: 2146.8.
+CompanyID: 280. Ticker: 280. Industry: Transportation. ESG Overall: 55.8. GrowthRate: 2.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2387.4, Revenue: 506.5.
+CompanyID: 281. Ticker: 281. Industry: Healthcare. ESG Overall: 50.9. GrowthRate: 7.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 197.2, Revenue: 1384.6.
+CompanyID: 282. Ticker: 282. Industry: Transportation. ESG Overall: 51.7. GrowthRate: 16.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1603.7, Revenue: 2359.5.
+CompanyID: 283. Ticker: 283. Industry: Retail. ESG Overall: 72.6. GrowthRate: 5.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 773.5, Revenue: 953.5.
+CompanyID: 284. Ticker: 284. Industry: Retail. ESG Overall: 71.4. GrowthRate: -5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 371.8, Revenue: 538.9.
+CompanyID: 285. Ticker: 285. Industry: Energy. ESG Overall: 57.0. GrowthRate: 15.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9609.3, Revenue: 37684.0.
+CompanyID: 286. Ticker: 286. Industry: Transportation. ESG Overall: 70.3. GrowthRate: 4.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 796.0, Revenue: 1486.7.
+CompanyID: 287. Ticker: 287. Industry: Transportation. ESG Overall: 47.0. GrowthRate: -4.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 65.3, Revenue: 271.6.
+CompanyID: 288. Ticker: 288. Industry: Technology. ESG Overall: 67.2. GrowthRate: 17.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 348864.1, Revenue: 54400.6.
+CompanyID: 289. Ticker: 289. Industry: Healthcare. ESG Overall: 38.4. GrowthRate: -3.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4427.0, Revenue: 2441.1.
+CompanyID: 290. Ticker: 290. Industry: Transportation. ESG Overall: 30.6. GrowthRate: -7.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3776.6, Revenue: 2844.3.
+CompanyID: 291. Ticker: 291. Industry: Technology. ESG Overall: 61.5. GrowthRate: 14.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 63706.5, Revenue: 25251.7.
+CompanyID: 292. Ticker: 292. Industry: Utilities. ESG Overall: 26.1. GrowthRate: 11.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 784.1, Revenue: 1296.9.
+CompanyID: 293. Ticker: 293. Industry: Finance. ESG Overall: 71.9. GrowthRate: -3.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 37924.7, Revenue: 9677.8.
+CompanyID: 294. Ticker: 294. Industry: Healthcare. ESG Overall: 85.4. GrowthRate: 8.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 526.1, Revenue: 874.4.
+CompanyID: 295. Ticker: 295. Industry: Finance. ESG Overall: 78.4. GrowthRate: 9.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1066.1, Revenue: 3361.5.
+CompanyID: 296. Ticker: 296. Industry: Utilities. ESG Overall: 56.8. GrowthRate: -12.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 593.1, Revenue: 593.9.
+CompanyID: 297. Ticker: 297. Industry: Retail. ESG Overall: 53.4. GrowthRate: 15.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2255.1, Revenue: 797.5.
+CompanyID: 298. Ticker: 298. Industry: Utilities. ESG Overall: 37.6. GrowthRate: -3.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2085.9, Revenue: 1753.1.
+CompanyID: 299. Ticker: 299. Industry: Consumer Goods. ESG Overall: 54.5. GrowthRate: -10.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7717.9, Revenue: 3325.9.
+CompanyID: 300. Ticker: 300. Industry: Manufacturing. ESG Overall: 65.7. GrowthRate: 7.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 542.8, Revenue: 1179.3.
+CompanyID: 301. Ticker: 301. Industry: Finance. ESG Overall: 52.2. GrowthRate: -1.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2771.0, Revenue: 1764.3.
+CompanyID: 302. Ticker: 302. Industry: Energy. ESG Overall: 16.1. GrowthRate: 2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3913.4, Revenue: 2102.7.
+CompanyID: 303. Ticker: 303. Industry: Energy. ESG Overall: 57.9. GrowthRate: -6.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 483.8, Revenue: 668.7.
+CompanyID: 304. Ticker: 304. Industry: Technology. ESG Overall: 60.4. GrowthRate: 20.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13120.7, Revenue: 19897.3.
+CompanyID: 305. Ticker: 305. Industry: Manufacturing. ESG Overall: 65.1. GrowthRate: 10.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 35908.9, Revenue: 9443.5.
+CompanyID: 306. Ticker: 306. Industry: Healthcare. ESG Overall: 52.5. GrowthRate: -3.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4012.4, Revenue: 1332.8.
+CompanyID: 307. Ticker: 307. Industry: Finance. ESG Overall: 67.6. GrowthRate: 14.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 19437.4, Revenue: 10552.8.
+CompanyID: 308. Ticker: 308. Industry: Finance. ESG Overall: 70.2. GrowthRate: 0.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4899.0, Revenue: 2711.8.
+CompanyID: 309. Ticker: 309. Industry: Transportation. ESG Overall: 62.4. GrowthRate: 10.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2410.7, Revenue: 4719.9.
+CompanyID: 310. Ticker: 310. Industry: Energy. ESG Overall: 53.3. GrowthRate: 1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13109.4, Revenue: 2858.9.
+CompanyID: 311. Ticker: 311. Industry: Consumer Goods. ESG Overall: 14.3. GrowthRate: -4.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12785.6, Revenue: 6459.0.
+CompanyID: 312. Ticker: 312. Industry: Consumer Goods. ESG Overall: 53.3. GrowthRate: -1.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 165.4, Revenue: 390.5.
+CompanyID: 313. Ticker: 313. Industry: Utilities. ESG Overall: 76.5. GrowthRate: -0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 631.9, Revenue: 649.9.
+CompanyID: 314. Ticker: 314. Industry: Consumer Goods. ESG Overall: 59.6. GrowthRate: 3.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1586.2, Revenue: 765.6.
+CompanyID: 315. Ticker: 315. Industry: Utilities. ESG Overall: 62.2. GrowthRate: 7.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1420.6, Revenue: 685.6.
+CompanyID: 316. Ticker: 316. Industry: Healthcare. ESG Overall: 53.3. GrowthRate: 13.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 66356.5, Revenue: 27189.4.
+CompanyID: 317. Ticker: 317. Industry: Technology. ESG Overall: 77.2. GrowthRate: -3.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11716.8, Revenue: 3696.6.
+CompanyID: 318. Ticker: 318. Industry: Transportation. ESG Overall: 77.7. GrowthRate: -6.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 426.8, Revenue: 637.8.
+CompanyID: 319. Ticker: 319. Industry: Finance. ESG Overall: 61.1. GrowthRate: -3.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 45272.4, Revenue: 12540.3.
+CompanyID: 320. Ticker: 320. Industry: Technology. ESG Overall: 63.7. GrowthRate: 17.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 66281.3, Revenue: 10151.2.
+CompanyID: 321. Ticker: 321. Industry: Energy. ESG Overall: 58.0. GrowthRate: 11.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6318.7, Revenue: 4923.2.
+CompanyID: 322. Ticker: 322. Industry: Consumer Goods. ESG Overall: 50.8. GrowthRate: 6.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 104.2, Revenue: 2321.6.
+CompanyID: 323. Ticker: 323. Industry: Healthcare. ESG Overall: 85.5. GrowthRate: 5.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11452.6, Revenue: 3721.2.
+CompanyID: 324. Ticker: 324. Industry: Energy. ESG Overall: 66.9. GrowthRate: -3.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5698.9, Revenue: 3693.2.
+CompanyID: 325. Ticker: 325. Industry: Finance. ESG Overall: 65.7. GrowthRate: 6.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1449.9, Revenue: 2420.6.
+CompanyID: 326. Ticker: 326. Industry: Finance. ESG Overall: 64.5. GrowthRate: 12.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11012.0, Revenue: 5512.2.
+CompanyID: 327. Ticker: 327. Industry: Retail. ESG Overall: 56.1. GrowthRate: -8.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1038.8, Revenue: 669.4.
+CompanyID: 328. Ticker: 328. Industry: Retail. ESG Overall: 78.3. GrowthRate: 0.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3851.3, Revenue: 2343.4.
+CompanyID: 329. Ticker: 329. Industry: Finance. ESG Overall: 86.6. GrowthRate: 5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 139488.7, Revenue: 26371.5.
+CompanyID: 330. Ticker: 330. Industry: Transportation. ESG Overall: 42.9. GrowthRate: 10.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8430.3, Revenue: 1523.1.
+CompanyID: 331. Ticker: 331. Industry: Consumer Goods. ESG Overall: 36.7. GrowthRate: -3.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 973.0, Revenue: 417.1.
+CompanyID: 332. Ticker: 332. Industry: Utilities. ESG Overall: 27.3. GrowthRate: 19.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1338.2, Revenue: 1357.3.
+CompanyID: 333. Ticker: 333. Industry: Technology. ESG Overall: 57.5. GrowthRate: -12.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 85981.9, Revenue: 22843.0.
+CompanyID: 334. Ticker: 334. Industry: Technology. ESG Overall: 42.9. GrowthRate: 19.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 93662.5, Revenue: 17950.9.
+CompanyID: 335. Ticker: 335. Industry: Utilities. ESG Overall: 78.4. GrowthRate: -5.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 261.5, Revenue: 352.5.
+CompanyID: 336. Ticker: 336. Industry: Retail. ESG Overall: 65.2. GrowthRate: -2.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3776.0, Revenue: 2451.7.
+CompanyID: 337. Ticker: 337. Industry: Finance. ESG Overall: 73.4. GrowthRate: 12.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 20905.1, Revenue: 6490.4.
+CompanyID: 338. Ticker: 338. Industry: Energy. ESG Overall: 42.5. GrowthRate: 1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 28233.4, Revenue: 7936.2.
+CompanyID: 339. Ticker: 339. Industry: Finance. ESG Overall: 77.4. GrowthRate: 15.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8315.5, Revenue: 3562.5.
+CompanyID: 340. Ticker: 340. Industry: Consumer Goods. ESG Overall: 66.0. GrowthRate: -2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 435.8, Revenue: 787.9.
+CompanyID: 341. Ticker: 341. Industry: Finance. ESG Overall: 47.0. GrowthRate: 7.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 40879.0, Revenue: 26361.2.
+CompanyID: 342. Ticker: 342. Industry: Energy. ESG Overall: 46.5. GrowthRate: -20.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 22229.7, Revenue: 5279.7.
+CompanyID: 343. Ticker: 343. Industry: Finance. ESG Overall: 68.2. GrowthRate: 2.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 25453.5, Revenue: 13978.9.
+CompanyID: 344. Ticker: 344. Industry: Technology. ESG Overall: 55.2. GrowthRate: 4.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 38330.6, Revenue: 7000.5.
+CompanyID: 345. Ticker: 345. Industry: Consumer Goods. ESG Overall: 80.3. GrowthRate: -6.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2408.6, Revenue: 703.4.
+CompanyID: 346. Ticker: 346. Industry: Transportation. ESG Overall: 68.3. GrowthRate: -1.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3539.6, Revenue: 1015.1.
+CompanyID: 347. Ticker: 347. Industry: Technology. ESG Overall: 47.0. GrowthRate: 19.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 578679.3, Revenue: 91780.1.
+CompanyID: 348. Ticker: 348. Industry: Healthcare. ESG Overall: 55.1. GrowthRate: 5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8498.2, Revenue: 6299.4.
+CompanyID: 349. Ticker: 349. Industry: Utilities. ESG Overall: 67.3. GrowthRate: -6.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5970.1, Revenue: 1520.2.
+CompanyID: 350. Ticker: 350. Industry: Utilities. ESG Overall: 35.8. GrowthRate: -11.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3965.8, Revenue: 2727.1.
+CompanyID: 351. Ticker: 351. Industry: Utilities. ESG Overall: 60.2. GrowthRate: -6.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 361.6, Revenue: 335.2.
+CompanyID: 352. Ticker: 352. Industry: Finance. ESG Overall: 64.4. GrowthRate: -5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5355.4, Revenue: 2484.9.
+CompanyID: 353. Ticker: 353. Industry: Finance. ESG Overall: 93.9. GrowthRate: 9.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 27000.8, Revenue: 6181.2.
+CompanyID: 354. Ticker: 354. Industry: Manufacturing. ESG Overall: 51.1. GrowthRate: 12.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9809.5, Revenue: 2071.6.
+CompanyID: 355. Ticker: 355. Industry: Technology. ESG Overall: 87.6. GrowthRate: 8.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 490286.1, Revenue: 83356.1.
+CompanyID: 356. Ticker: 356. Industry: Consumer Goods. ESG Overall: 68.3. GrowthRate: -4.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2977.3, Revenue: 1345.2.
+CompanyID: 357. Ticker: 357. Industry: Transportation. ESG Overall: 65.5. GrowthRate: 7.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3194.5, Revenue: 3721.9.
+CompanyID: 358. Ticker: 358. Industry: Utilities. ESG Overall: 52.4. GrowthRate: -1.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1833.2, Revenue: 1570.5.
+CompanyID: 359. Ticker: 359. Industry: Consumer Goods. ESG Overall: 28.1. GrowthRate: 11.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1750.3, Revenue: 1422.8.
+CompanyID: 360. Ticker: 360. Industry: Retail. ESG Overall: 61.2. GrowthRate: 1.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 475.3, Revenue: 857.4.
+CompanyID: 361. Ticker: 361. Industry: Energy. ESG Overall: 60.3. GrowthRate: 2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17772.5, Revenue: 7391.5.
+CompanyID: 362. Ticker: 362. Industry: Technology. ESG Overall: 41.4. GrowthRate: 4.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 33614.6, Revenue: 4837.3.
+CompanyID: 363. Ticker: 363. Industry: Manufacturing. ESG Overall: 53.0. GrowthRate: 0.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1734.1, Revenue: 1489.9.
+CompanyID: 364. Ticker: 364. Industry: Utilities. ESG Overall: 64.2. GrowthRate: 0.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1128.9, Revenue: 648.9.
+CompanyID: 365. Ticker: 365. Industry: Retail. ESG Overall: 67.8. GrowthRate: 0.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1947.7, Revenue: 2817.8.
+CompanyID: 366. Ticker: 366. Industry: Manufacturing. ESG Overall: 24.8. GrowthRate: 0.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1178.3, Revenue: 827.4.
+CompanyID: 367. Ticker: 367. Industry: Utilities. ESG Overall: 71.1. GrowthRate: -4.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1261.4, Revenue: 1016.1.
+CompanyID: 368. Ticker: 368. Industry: Finance. ESG Overall: 83.0. GrowthRate: 4.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8868.6, Revenue: 5197.5.
+CompanyID: 369. Ticker: 369. Industry: Utilities. ESG Overall: 67.6. GrowthRate: 4.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 855.4, Revenue: 1529.3.
+CompanyID: 370. Ticker: 370. Industry: Technology. ESG Overall: 62.2. GrowthRate: -1.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12440.4, Revenue: 7425.1.
+CompanyID: 371. Ticker: 371. Industry: Retail. ESG Overall: 47.8. GrowthRate: 1.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3144.4, Revenue: 1164.2.
+CompanyID: 372. Ticker: 372. Industry: Energy. ESG Overall: 64.2. GrowthRate: 21.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 33517.9, Revenue: 22416.1.
+CompanyID: 373. Ticker: 373. Industry: Energy. ESG Overall: 53.8. GrowthRate: 31.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 28249.6, Revenue: 16525.4.
+CompanyID: 374. Ticker: 374. Industry: Healthcare. ESG Overall: 23.8. GrowthRate: 14.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 34549.2, Revenue: 10380.2.
+CompanyID: 375. Ticker: 375. Industry: Transportation. ESG Overall: 20.0. GrowthRate: -5.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 163.1, Revenue: 329.2.
+CompanyID: 376. Ticker: 376. Industry: Technology. ESG Overall: 88.9. GrowthRate: -9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4393.4, Revenue: 1559.1.
+CompanyID: 377. Ticker: 377. Industry: Consumer Goods. ESG Overall: 49.9. GrowthRate: 18.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17085.5, Revenue: 5860.2.
+CompanyID: 378. Ticker: 378. Industry: Technology. ESG Overall: 95.3. GrowthRate: 0.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 27445.4, Revenue: 2554.2.
+CompanyID: 379. Ticker: 379. Industry: Manufacturing. ESG Overall: 49.0. GrowthRate: 6.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2227.4, Revenue: 3822.5.
+CompanyID: 380. Ticker: 380. Industry: Retail. ESG Overall: 94.5. GrowthRate: -1.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1094.5, Revenue: 741.5.
+CompanyID: 381. Ticker: 381. Industry: Utilities. ESG Overall: 56.1. GrowthRate: 14.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1106.8, Revenue: 3331.7.
+CompanyID: 382. Ticker: 382. Industry: Energy. ESG Overall: 64.5. GrowthRate: -4.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11729.2, Revenue: 5288.1.
+CompanyID: 383. Ticker: 383. Industry: Energy. ESG Overall: 27.0. GrowthRate: 21.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 30948.4, Revenue: 6635.9.
+CompanyID: 384. Ticker: 384. Industry: Healthcare. ESG Overall: 58.4. GrowthRate: 11.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 20947.8, Revenue: 13370.6.
+CompanyID: 385. Ticker: 385. Industry: Transportation. ESG Overall: 34.0. GrowthRate: -14.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 81.4, Revenue: 238.8.
+CompanyID: 386. Ticker: 386. Industry: Utilities. ESG Overall: 61.4. GrowthRate: -8.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1677.1, Revenue: 2271.1.
+CompanyID: 387. Ticker: 387. Industry: Consumer Goods. ESG Overall: 63.0. GrowthRate: 16.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3795.8, Revenue: 2262.7.
+CompanyID: 388. Ticker: 388. Industry: Manufacturing. ESG Overall: 53.8. GrowthRate: 12.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 632.3, Revenue: 729.1.
+CompanyID: 389. Ticker: 389. Industry: Energy. ESG Overall: 31.7. GrowthRate: 9.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3565.4, Revenue: 6861.1.
+CompanyID: 390. Ticker: 390. Industry: Energy. ESG Overall: 28.5. GrowthRate: -6.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15051.4, Revenue: 2226.6.
+CompanyID: 391. Ticker: 391. Industry: Retail. ESG Overall: 45.7. GrowthRate: -6.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4483.7, Revenue: 937.4.
+CompanyID: 392. Ticker: 392. Industry: Consumer Goods. ESG Overall: 27.0. GrowthRate: 9.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5345.0, Revenue: 2418.7.
+CompanyID: 393. Ticker: 393. Industry: Transportation. ESG Overall: 81.2. GrowthRate: 9.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 110.9, Revenue: 1186.3.
+CompanyID: 394. Ticker: 394. Industry: Transportation. ESG Overall: 52.8. GrowthRate: 8.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 869.2, Revenue: 2782.3.
+CompanyID: 395. Ticker: 395. Industry: Consumer Goods. ESG Overall: 52.3. GrowthRate: -5.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6704.2, Revenue: 2617.7.
+CompanyID: 396. Ticker: 396. Industry: Finance. ESG Overall: 79.6. GrowthRate: 9.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 58837.5, Revenue: 19407.2.
+CompanyID: 397. Ticker: 397. Industry: Consumer Goods. ESG Overall: 37.5. GrowthRate: -3.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7301.8, Revenue: 8082.2.
+CompanyID: 398. Ticker: 398. Industry: Finance. ESG Overall: 66.7. GrowthRate: 13.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1456.4, Revenue: 2143.1.
+CompanyID: 399. Ticker: 399. Industry: Energy. ESG Overall: 67.7. GrowthRate: 8.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 128495.8, Revenue: 29065.2.
+CompanyID: 400. Ticker: 400. Industry: Manufacturing. ESG Overall: 49.7. GrowthRate: -16.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2278.5, Revenue: 556.7.
+CompanyID: 401. Ticker: 401. Industry: Energy. ESG Overall: 65.7. GrowthRate: -6.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2465.7, Revenue: 2644.6.
+CompanyID: 402. Ticker: 402. Industry: Technology. ESG Overall: 31.6. GrowthRate: 19.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12282.7, Revenue: 1996.2.
+CompanyID: 403. Ticker: 403. Industry: Retail. ESG Overall: 58.5. GrowthRate: 5.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 24156.3, Revenue: 10010.2.
+CompanyID: 404. Ticker: 404. Industry: Healthcare. ESG Overall: 55.3. GrowthRate: 15.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 250.5, Revenue: 3916.2.
+CompanyID: 405. Ticker: 405. Industry: Finance. ESG Overall: 90.5. GrowthRate: -6.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4404.0, Revenue: 3483.4.
+CompanyID: 406. Ticker: 406. Industry: Utilities. ESG Overall: 53.7. GrowthRate: -7.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 449.1, Revenue: 396.1.
+CompanyID: 407. Ticker: 407. Industry: Healthcare. ESG Overall: 69.2. GrowthRate: -5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1320.4, Revenue: 538.8.
+CompanyID: 408. Ticker: 408. Industry: Retail. ESG Overall: 72.3. GrowthRate: 7.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1374.4, Revenue: 1657.9.
+CompanyID: 409. Ticker: 409. Industry: Healthcare. ESG Overall: 59.2. GrowthRate: 11.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 118627.9, Revenue: 51738.7.
+CompanyID: 410. Ticker: 410. Industry: Manufacturing. ESG Overall: 34.7. GrowthRate: 10.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7739.0, Revenue: 3396.4.
+CompanyID: 411. Ticker: 411. Industry: Healthcare. ESG Overall: 61.3. GrowthRate: 18.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 28808.1, Revenue: 11175.9.
+CompanyID: 412. Ticker: 412. Industry: Energy. ESG Overall: 46.7. GrowthRate: 24.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 27674.1, Revenue: 36923.4.
+CompanyID: 413. Ticker: 413. Industry: Consumer Goods. ESG Overall: 73.9. GrowthRate: 16.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5696.2, Revenue: 3700.7.
+CompanyID: 414. Ticker: 414. Industry: Retail. ESG Overall: 62.9. GrowthRate: 0.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15.7, Revenue: 361.2.
+CompanyID: 415. Ticker: 415. Industry: Energy. ESG Overall: 51.7. GrowthRate: -7.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2158.3, Revenue: 2136.9.
+CompanyID: 416. Ticker: 416. Industry: Healthcare. ESG Overall: 62.6. GrowthRate: 1.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4416.8, Revenue: 3075.0.
+CompanyID: 417. Ticker: 417. Industry: Transportation. ESG Overall: 28.0. GrowthRate: 2.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 469.4, Revenue: 568.0.
+CompanyID: 418. Ticker: 418. Industry: Manufacturing. ESG Overall: 69.7. GrowthRate: 0.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 983.9, Revenue: 823.4.
+CompanyID: 419. Ticker: 419. Industry: Healthcare. ESG Overall: 52.2. GrowthRate: 17.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 70.4, Revenue: 2997.5.
+CompanyID: 420. Ticker: 420. Industry: Manufacturing. ESG Overall: 47.1. GrowthRate: -1.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2268.7, Revenue: 2800.7.
+CompanyID: 421. Ticker: 421. Industry: Retail. ESG Overall: 82.8. GrowthRate: -0.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1395.9, Revenue: 1338.1.
+CompanyID: 422. Ticker: 422. Industry: Energy. ESG Overall: 86.9. GrowthRate: -4.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9449.6, Revenue: 2179.4.
+CompanyID: 423. Ticker: 423. Industry: Healthcare. ESG Overall: 66.5. GrowthRate: -7.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9783.9, Revenue: 5007.2.
+CompanyID: 424. Ticker: 424. Industry: Finance. ESG Overall: 89.1. GrowthRate: 22.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 34369.4, Revenue: 25165.4.
+CompanyID: 425. Ticker: 425. Industry: Consumer Goods. ESG Overall: 63.6. GrowthRate: -8.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15935.7, Revenue: 4585.4.
+CompanyID: 426. Ticker: 426. Industry: Transportation. ESG Overall: 33.5. GrowthRate: -1.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10025.3, Revenue: 2326.8.
+CompanyID: 427. Ticker: 427. Industry: Manufacturing. ESG Overall: 45.6. GrowthRate: 6.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1813.5, Revenue: 1094.7.
+CompanyID: 428. Ticker: 428. Industry: Manufacturing. ESG Overall: 70.5. GrowthRate: 9.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 25218.4, Revenue: 6717.6.
+CompanyID: 429. Ticker: 429. Industry: Finance. ESG Overall: 82.8. GrowthRate: -4.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1075.3, Revenue: 678.3.
+CompanyID: 430. Ticker: 430. Industry: Healthcare. ESG Overall: 75.6. GrowthRate: 20.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 21502.3, Revenue: 21277.3.
+CompanyID: 431. Ticker: 431. Industry: Consumer Goods. ESG Overall: 74.7. GrowthRate: 13.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4082.3, Revenue: 1189.8.
+CompanyID: 432. Ticker: 432. Industry: Technology. ESG Overall: 71.4. GrowthRate: 13.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3619.8, Revenue: 681.0.
+CompanyID: 433. Ticker: 433. Industry: Retail. ESG Overall: 39.4. GrowthRate: 17.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 23639.6, Revenue: 12701.6.
+CompanyID: 434. Ticker: 434. Industry: Transportation. ESG Overall: 57.0. GrowthRate: 1.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 117.9, Revenue: 1054.4.
+CompanyID: 435. Ticker: 435. Industry: Retail. ESG Overall: 24.9. GrowthRate: 7.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11382.1, Revenue: 3007.8.
+CompanyID: 436. Ticker: 436. Industry: Finance. ESG Overall: 64.4. GrowthRate: 2.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5888.9, Revenue: 2579.4.
+CompanyID: 437. Ticker: 437. Industry: Technology. ESG Overall: 55.3. GrowthRate: 15.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5361.1, Revenue: 1331.4.
+CompanyID: 438. Ticker: 438. Industry: Transportation. ESG Overall: 39.9. GrowthRate: 7.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7133.6, Revenue: 2089.6.
+CompanyID: 439. Ticker: 439. Industry: Utilities. ESG Overall: 85.5. GrowthRate: 11.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1133.2, Revenue: 1183.7.
+CompanyID: 440. Ticker: 440. Industry: Retail. ESG Overall: 54.9. GrowthRate: -1.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 338.0, Revenue: 692.9.
+CompanyID: 441. Ticker: 441. Industry: Finance. ESG Overall: 72.6. GrowthRate: 0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1120.2, Revenue: 929.9.
+CompanyID: 442. Ticker: 442. Industry: Consumer Goods. ESG Overall: 55.2. GrowthRate: 2.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1779.4, Revenue: 2360.5.
+CompanyID: 443. Ticker: 443. Industry: Consumer Goods. ESG Overall: 54.0. GrowthRate: -9.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5701.5, Revenue: 969.5.
+CompanyID: 444. Ticker: 444. Industry: Finance. ESG Overall: 92.1. GrowthRate: 2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11030.2, Revenue: 7387.7.
+CompanyID: 445. Ticker: 445. Industry: Finance. ESG Overall: 78.5. GrowthRate: -6.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 26823.3, Revenue: 10265.6.
+CompanyID: 446. Ticker: 446. Industry: Manufacturing. ESG Overall: 52.3. GrowthRate: 1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10443.7, Revenue: 3027.3.
+CompanyID: 447. Ticker: 447. Industry: Utilities. ESG Overall: 45.9. GrowthRate: 3.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1598.0, Revenue: 1692.8.
+CompanyID: 448. Ticker: 448. Industry: Finance. ESG Overall: 54.7. GrowthRate: 16.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 14040.1, Revenue: 13779.0.
+CompanyID: 449. Ticker: 449. Industry: Manufacturing. ESG Overall: 66.3. GrowthRate: 12.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 457.6, Revenue: 2346.0.
+CompanyID: 450. Ticker: 450. Industry: Utilities. ESG Overall: 64.0. GrowthRate: 2.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2906.8, Revenue: 3580.7.
+CompanyID: 451. Ticker: 451. Industry: Consumer Goods. ESG Overall: 85.8. GrowthRate: 9.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16334.0, Revenue: 7488.5.
+CompanyID: 452. Ticker: 452. Industry: Consumer Goods. ESG Overall: 58.8. GrowthRate: 17.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11638.8, Revenue: 3486.7.
+CompanyID: 453. Ticker: 453. Industry: Energy. ESG Overall: 33.4. GrowthRate: -6.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3410.5, Revenue: 3910.0.
+CompanyID: 454. Ticker: 454. Industry: Manufacturing. ESG Overall: 36.0. GrowthRate: -23.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2078.6, Revenue: 2136.6.
+CompanyID: 455. Ticker: 455. Industry: Consumer Goods. ESG Overall: 48.5. GrowthRate: 25.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10750.5, Revenue: 3243.5.
+CompanyID: 456. Ticker: 456. Industry: Utilities. ESG Overall: 35.8. GrowthRate: -6.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 311.3, Revenue: 353.9.
+CompanyID: 457. Ticker: 457. Industry: Transportation. ESG Overall: 74.8. GrowthRate: 13.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11815.0, Revenue: 3671.9.
+CompanyID: 458. Ticker: 458. Industry: Transportation. ESG Overall: 32.6. GrowthRate: 29.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10626.7, Revenue: 6688.3.
+CompanyID: 459. Ticker: 459. Industry: Transportation. ESG Overall: 52.1. GrowthRate: 8.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 70.1, Revenue: 1232.1.
+CompanyID: 460. Ticker: 460. Industry: Technology. ESG Overall: 59.8. GrowthRate: 1.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 42782.9, Revenue: 5487.6.
+CompanyID: 461. Ticker: 461. Industry: Technology. ESG Overall: 84.1. GrowthRate: 14.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6436.8, Revenue: 1658.9.
+CompanyID: 462. Ticker: 462. Industry: Technology. ESG Overall: 76.6. GrowthRate: 9.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 121142.0, Revenue: 51770.7.
+CompanyID: 463. Ticker: 463. Industry: Technology. ESG Overall: 78.0. GrowthRate: 16.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 635311.9, Revenue: 144823.6.
+CompanyID: 464. Ticker: 464. Industry: Energy. ESG Overall: 67.8. GrowthRate: 15.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 27245.1, Revenue: 37009.3.
+CompanyID: 465. Ticker: 465. Industry: Retail. ESG Overall: 62.9. GrowthRate: -7.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 813.6, Revenue: 1217.1.
+CompanyID: 466. Ticker: 466. Industry: Consumer Goods. ESG Overall: 65.4. GrowthRate: 16.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 398.9, Revenue: 2475.3.
+CompanyID: 467. Ticker: 467. Industry: Manufacturing. ESG Overall: 43.0. GrowthRate: 5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1993.0, Revenue: 1357.5.
+CompanyID: 468. Ticker: 468. Industry: Utilities. ESG Overall: 56.3. GrowthRate: 4.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 221.5, Revenue: 1076.9.
+CompanyID: 469. Ticker: 469. Industry: Retail. ESG Overall: 52.5. GrowthRate: -4.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 553.6, Revenue: 1981.9.
+CompanyID: 470. Ticker: 470. Industry: Technology. ESG Overall: 73.9. GrowthRate: 16.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 89811.5, Revenue: 13820.7.
+CompanyID: 471. Ticker: 471. Industry: Utilities. ESG Overall: 42.9. GrowthRate: -4.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5054.1, Revenue: 2247.5.
+CompanyID: 472. Ticker: 472. Industry: Healthcare. ESG Overall: 95.6. GrowthRate: 14.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9569.8, Revenue: 4953.8.
+CompanyID: 473. Ticker: 473. Industry: Retail. ESG Overall: 61.5. GrowthRate: -0.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 773.6, Revenue: 810.8.
+CompanyID: 474. Ticker: 474. Industry: Consumer Goods. ESG Overall: 64.7. GrowthRate: 14.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3092.2, Revenue: 3310.2.
+CompanyID: 475. Ticker: 475. Industry: Technology. ESG Overall: 68.7. GrowthRate: 6.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 104668.6, Revenue: 15423.2.
+CompanyID: 476. Ticker: 476. Industry: Retail. ESG Overall: 51.6. GrowthRate: -17.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1841.3, Revenue: 1745.6.
+CompanyID: 477. Ticker: 477. Industry: Manufacturing. ESG Overall: 45.1. GrowthRate: -3.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1461.8, Revenue: 1697.0.
+CompanyID: 478. Ticker: 478. Industry: Finance. ESG Overall: 98.0. GrowthRate: 0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15330.3, Revenue: 11483.5.
+CompanyID: 479. Ticker: 479. Industry: Transportation. ESG Overall: 47.4. GrowthRate: 7.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 389.5, Revenue: 997.1.
+CompanyID: 480. Ticker: 480. Industry: Retail. ESG Overall: 34.5. GrowthRate: -11.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 517.1, Revenue: 574.3.
+CompanyID: 481. Ticker: 481. Industry: Transportation. ESG Overall: 21.7. GrowthRate: 0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 250.8, Revenue: 687.4.
+CompanyID: 482. Ticker: 482. Industry: Energy. ESG Overall: 86.2. GrowthRate: -2.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16641.6, Revenue: 6124.6.
+CompanyID: 483. Ticker: 483. Industry: Transportation. ESG Overall: 28.5. GrowthRate: -4.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4261.1, Revenue: 1216.0.
+CompanyID: 484. Ticker: 484. Industry: Manufacturing. ESG Overall: 55.1. GrowthRate: 6.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3730.1, Revenue: 2067.9.
+CompanyID: 485. Ticker: 485. Industry: Finance. ESG Overall: 49.5. GrowthRate: -1.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2847.1, Revenue: 1034.0.
+CompanyID: 486. Ticker: 486. Industry: Healthcare. ESG Overall: 80.6. GrowthRate: -1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8796.8, Revenue: 1983.6.
+CompanyID: 487. Ticker: 487. Industry: Technology. ESG Overall: 74.1. GrowthRate: 4.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 345403.5, Revenue: 35369.4.
+CompanyID: 488. Ticker: 488. Industry: Utilities. ESG Overall: 54.3. GrowthRate: 4.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4074.3, Revenue: 3344.3.
+CompanyID: 489. Ticker: 489. Industry: Consumer Goods. ESG Overall: 73.9. GrowthRate: -5.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4125.2, Revenue: 1551.2.
+CompanyID: 490. Ticker: 490. Industry: Retail. ESG Overall: 67.3. GrowthRate: 1.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4293.1, Revenue: 3460.4.
+CompanyID: 491. Ticker: 491. Industry: Transportation. ESG Overall: 38.3. GrowthRate: 11.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1751.0, Revenue: 617.0.
+CompanyID: 492. Ticker: 492. Industry: Manufacturing. ESG Overall: 46.7. GrowthRate: 13.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4091.1, Revenue: 2385.0.
+CompanyID: 493. Ticker: 493. Industry: Energy. ESG Overall: 46.4. GrowthRate: -10.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4317.0, Revenue: 1049.1.
+CompanyID: 494. Ticker: 494. Industry: Consumer Goods. ESG Overall: 39.0. GrowthRate: 3.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 274.7, Revenue: 1428.2.
+CompanyID: 495. Ticker: 495. Industry: Consumer Goods. ESG Overall: 45.2. GrowthRate: 5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3262.1, Revenue: 1358.9.
+CompanyID: 496. Ticker: 496. Industry: Manufacturing. ESG Overall: 55.7. GrowthRate: -3.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 535.8, Revenue: 2784.7.
+CompanyID: 497. Ticker: 497. Industry: Utilities. ESG Overall: 48.8. GrowthRate: 9.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2098.6, Revenue: 1248.2.
+CompanyID: 498. Ticker: 498. Industry: Technology. ESG Overall: 78.1. GrowthRate: 11.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 67997.0, Revenue: 36032.9.
+CompanyID: 499. Ticker: 499. Industry: Transportation. ESG Overall: 43.9. GrowthRate: 4.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1181.7, Revenue: 1267.1.
+CompanyID: 500. Ticker: 500. Industry: Utilities. ESG Overall: 52.6. GrowthRate: 6.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2350.2, Revenue: 2495.0.
+CompanyID: 501. Ticker: 501. Industry: Retail. ESG Overall: 54.2. GrowthRate: -0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 425.3, Revenue: 789.9.
+CompanyID: 502. Ticker: 502. Industry: Manufacturing. ESG Overall: 43.6. GrowthRate: 25.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 505.2, Revenue: 398.0.
+CompanyID: 503. Ticker: 503. Industry: Manufacturing. ESG Overall: 54.8. GrowthRate: 14.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15421.0, Revenue: 7727.0.
+CompanyID: 504. Ticker: 504. Industry: Retail. ESG Overall: 67.2. GrowthRate: 23.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 959.5, Revenue: 6532.5.
+CompanyID: 505. Ticker: 505. Industry: Transportation. ESG Overall: 72.7. GrowthRate: -7.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 922.2, Revenue: 251.9.
+CompanyID: 506. Ticker: 506. Industry: Retail. ESG Overall: 69.4. GrowthRate: 1.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 34336.6, Revenue: 10284.8.
+CompanyID: 507. Ticker: 507. Industry: Manufacturing. ESG Overall: 75.6. GrowthRate: 11.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2230.7, Revenue: 1012.3.
+CompanyID: 508. Ticker: 508. Industry: Utilities. ESG Overall: 61.1. GrowthRate: -0.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 187.7, Revenue: 367.8.
+CompanyID: 509. Ticker: 509. Industry: Technology. ESG Overall: 67.4. GrowthRate: -0.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 42150.8, Revenue: 24246.4.
+CompanyID: 510. Ticker: 510. Industry: Utilities. ESG Overall: 70.9. GrowthRate: 9.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1856.2, Revenue: 1478.6.
+CompanyID: 511. Ticker: 511. Industry: Healthcare. ESG Overall: 80.6. GrowthRate: 7.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4453.5, Revenue: 3630.3.
+CompanyID: 512. Ticker: 512. Industry: Finance. ESG Overall: 44.2. GrowthRate: 4.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 29917.2, Revenue: 8917.0.
+CompanyID: 513. Ticker: 513. Industry: Healthcare. ESG Overall: 57.4. GrowthRate: -11.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8493.3, Revenue: 2058.8.
+CompanyID: 514. Ticker: 514. Industry: Energy. ESG Overall: 52.8. GrowthRate: -0.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2473.9, Revenue: 1992.8.
+CompanyID: 515. Ticker: 515. Industry: Finance. ESG Overall: 46.6. GrowthRate: 14.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 24990.6, Revenue: 18660.4.
+CompanyID: 516. Ticker: 516. Industry: Utilities. ESG Overall: 34.2. GrowthRate: -9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 435.9, Revenue: 252.9.
+CompanyID: 517. Ticker: 517. Industry: Finance. ESG Overall: 50.7. GrowthRate: 7.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13244.7, Revenue: 3351.7.
+CompanyID: 518. Ticker: 518. Industry: Utilities. ESG Overall: 57.0. GrowthRate: 1.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 170.4, Revenue: 345.2.
+CompanyID: 519. Ticker: 519. Industry: Retail. ESG Overall: 53.5. GrowthRate: 7.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3255.3, Revenue: 2704.7.
+CompanyID: 520. Ticker: 520. Industry: Manufacturing. ESG Overall: 52.4. GrowthRate: 11.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9893.4, Revenue: 2636.6.
+CompanyID: 521. Ticker: 521. Industry: Technology. ESG Overall: 74.8. GrowthRate: 10.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 36132.3, Revenue: 9643.8.
+CompanyID: 522. Ticker: 522. Industry: Transportation. ESG Overall: 33.8. GrowthRate: 18.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 463.2, Revenue: 298.0.
+CompanyID: 523. Ticker: 523. Industry: Consumer Goods. ESG Overall: 48.4. GrowthRate: 7.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4061.3, Revenue: 1642.3.
+CompanyID: 524. Ticker: 524. Industry: Transportation. ESG Overall: 42.9. GrowthRate: -11.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3957.5, Revenue: 2616.6.
+CompanyID: 525. Ticker: 525. Industry: Utilities. ESG Overall: 54.9. GrowthRate: -11.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 362.8, Revenue: 713.5.
+CompanyID: 526. Ticker: 526. Industry: Utilities. ESG Overall: 40.4. GrowthRate: -8.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 209.1, Revenue: 208.3.
+CompanyID: 527. Ticker: 527. Industry: Retail. ESG Overall: 35.0. GrowthRate: 0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2151.6, Revenue: 961.2.
+CompanyID: 528. Ticker: 528. Industry: Utilities. ESG Overall: 65.3. GrowthRate: -3.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 70.8, Revenue: 684.7.
+CompanyID: 529. Ticker: 529. Industry: Finance. ESG Overall: 54.0. GrowthRate: -9.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 26449.0, Revenue: 20080.1.
+CompanyID: 530. Ticker: 530. Industry: Manufacturing. ESG Overall: 42.6. GrowthRate: 9.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2534.5, Revenue: 1168.9.
+CompanyID: 531. Ticker: 531. Industry: Consumer Goods. ESG Overall: 37.5. GrowthRate: 7.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 836.1, Revenue: 1214.3.
+CompanyID: 532. Ticker: 532. Industry: Retail. ESG Overall: 92.3. GrowthRate: 9.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 808.2, Revenue: 498.1.
+CompanyID: 533. Ticker: 533. Industry: Technology. ESG Overall: 69.5. GrowthRate: 13.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 57158.2, Revenue: 18913.3.
+CompanyID: 534. Ticker: 534. Industry: Manufacturing. ESG Overall: 38.6. GrowthRate: 14.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 956.7, Revenue: 1742.5.
+CompanyID: 535. Ticker: 535. Industry: Energy. ESG Overall: 48.7. GrowthRate: 5.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 131084.1, Revenue: 59585.9.
+CompanyID: 536. Ticker: 536. Industry: Transportation. ESG Overall: 18.3. GrowthRate: -10.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1432.1, Revenue: 359.4.
+CompanyID: 537. Ticker: 537. Industry: Retail. ESG Overall: 61.8. GrowthRate: -0.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3890.8, Revenue: 1024.1.
+CompanyID: 538. Ticker: 538. Industry: Transportation. ESG Overall: 37.3. GrowthRate: 0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4611.5, Revenue: 1222.7.
+CompanyID: 539. Ticker: 539. Industry: Healthcare. ESG Overall: 81.7. GrowthRate: 10.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 27646.9, Revenue: 5483.8.
+CompanyID: 540. Ticker: 540. Industry: Utilities. ESG Overall: 73.9. GrowthRate: -3.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1302.1, Revenue: 1932.6.
+CompanyID: 541. Ticker: 541. Industry: Technology. ESG Overall: 46.9. GrowthRate: -5.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 29105.5, Revenue: 3035.3.
+CompanyID: 542. Ticker: 542. Industry: Transportation. ESG Overall: 52.9. GrowthRate: 16.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1288.9, Revenue: 1082.2.
+CompanyID: 543. Ticker: 543. Industry: Energy. ESG Overall: 50.5. GrowthRate: 23.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 309026.1, Revenue: 93522.7.
+CompanyID: 544. Ticker: 544. Industry: Energy. ESG Overall: 61.0. GrowthRate: 18.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 46145.3, Revenue: 11745.8.
+CompanyID: 545. Ticker: 545. Industry: Manufacturing. ESG Overall: 61.7. GrowthRate: -2.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9869.6, Revenue: 6202.3.
+CompanyID: 546. Ticker: 546. Industry: Energy. ESG Overall: 46.1. GrowthRate: -20.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 887.4, Revenue: 367.0.
+CompanyID: 547. Ticker: 547. Industry: Energy. ESG Overall: 58.9. GrowthRate: -15.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2600.9, Revenue: 951.3.
+CompanyID: 548. Ticker: 548. Industry: Retail. ESG Overall: 29.1. GrowthRate: 31.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7980.7, Revenue: 9800.9.
+CompanyID: 549. Ticker: 549. Industry: Utilities. ESG Overall: 81.9. GrowthRate: 9.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2027.1, Revenue: 1886.3.
+CompanyID: 550. Ticker: 550. Industry: Consumer Goods. ESG Overall: 67.7. GrowthRate: -7.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4527.5, Revenue: 1010.2.
+CompanyID: 551. Ticker: 551. Industry: Retail. ESG Overall: 56.8. GrowthRate: -1.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4418.6, Revenue: 1774.5.
+CompanyID: 552. Ticker: 552. Industry: Consumer Goods. ESG Overall: 66.0. GrowthRate: -7.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4168.2, Revenue: 861.5.
+CompanyID: 553. Ticker: 553. Industry: Retail. ESG Overall: 56.8. GrowthRate: -2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5461.8, Revenue: 3308.7.
+CompanyID: 554. Ticker: 554. Industry: Manufacturing. ESG Overall: 51.4. GrowthRate: 7.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5062.6, Revenue: 2035.9.
+CompanyID: 555. Ticker: 555. Industry: Energy. ESG Overall: 41.5. GrowthRate: -8.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5617.9, Revenue: 2171.5.
+CompanyID: 556. Ticker: 556. Industry: Transportation. ESG Overall: 46.2. GrowthRate: 6.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1549.3, Revenue: 3052.8.
+CompanyID: 557. Ticker: 557. Industry: Healthcare. ESG Overall: 66.6. GrowthRate: 13.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4090.1, Revenue: 11534.9.
+CompanyID: 558. Ticker: 558. Industry: Finance. ESG Overall: 58.1. GrowthRate: 3.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2472.1, Revenue: 4629.6.
+CompanyID: 559. Ticker: 559. Industry: Manufacturing. ESG Overall: 51.8. GrowthRate: 2.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3908.8, Revenue: 4629.8.
+CompanyID: 560. Ticker: 560. Industry: Technology. ESG Overall: 57.0. GrowthRate: 20.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 24347.2, Revenue: 7364.4.
+CompanyID: 561. Ticker: 561. Industry: Healthcare. ESG Overall: 42.5. GrowthRate: 14.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11525.3, Revenue: 3898.4.
+CompanyID: 562. Ticker: 562. Industry: Transportation. ESG Overall: 25.7. GrowthRate: 12.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1293.5, Revenue: 466.3.
+CompanyID: 563. Ticker: 563. Industry: Energy. ESG Overall: 52.3. GrowthRate: 16.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12550.8, Revenue: 3530.9.
+CompanyID: 564. Ticker: 564. Industry: Energy. ESG Overall: 31.7. GrowthRate: -2.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8194.5, Revenue: 10246.7.
+CompanyID: 565. Ticker: 565. Industry: Utilities. ESG Overall: 48.6. GrowthRate: 4.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 838.9, Revenue: 1772.0.
+CompanyID: 566. Ticker: 566. Industry: Healthcare. ESG Overall: 58.8. GrowthRate: 2.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6237.1, Revenue: 2584.5.
+CompanyID: 567. Ticker: 567. Industry: Healthcare. ESG Overall: 83.5. GrowthRate: 3.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4342.3, Revenue: 1799.4.
+CompanyID: 568. Ticker: 568. Industry: Healthcare. ESG Overall: 47.0. GrowthRate: -4.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3499.0, Revenue: 1116.4.
+CompanyID: 569. Ticker: 569. Industry: Energy. ESG Overall: 32.9. GrowthRate: -5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7536.8, Revenue: 12923.3.
+CompanyID: 570. Ticker: 570. Industry: Energy. ESG Overall: 46.4. GrowthRate: -0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 83.6, Revenue: 554.7.
+CompanyID: 571. Ticker: 571. Industry: Retail. ESG Overall: 47.3. GrowthRate: 13.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10542.9, Revenue: 3435.3.
+CompanyID: 572. Ticker: 572. Industry: Retail. ESG Overall: 42.8. GrowthRate: 7.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4659.3, Revenue: 2697.3.
+CompanyID: 573. Ticker: 573. Industry: Energy. ESG Overall: 46.1. GrowthRate: -4.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6382.7, Revenue: 2385.7.
+CompanyID: 574. Ticker: 574. Industry: Transportation. ESG Overall: 35.5. GrowthRate: -0.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8002.5, Revenue: 1971.9.
+CompanyID: 575. Ticker: 575. Industry: Energy. ESG Overall: 48.1. GrowthRate: -25.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 896.1, Revenue: 881.1.
+CompanyID: 576. Ticker: 576. Industry: Finance. ESG Overall: 63.7. GrowthRate: -5.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5141.6, Revenue: 3575.9.
+CompanyID: 577. Ticker: 577. Industry: Manufacturing. ESG Overall: 78.3. GrowthRate: -4.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 75.8, Revenue: 449.2.
+CompanyID: 578. Ticker: 578. Industry: Transportation. ESG Overall: 70.3. GrowthRate: -5.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7564.1, Revenue: 1828.3.
+CompanyID: 579. Ticker: 579. Industry: Retail. ESG Overall: 61.1. GrowthRate: 22.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1620.0, Revenue: 1491.3.
+CompanyID: 580. Ticker: 580. Industry: Technology. ESG Overall: 73.7. GrowthRate: 9.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1399.5, Revenue: 3320.8.
+CompanyID: 581. Ticker: 581. Industry: Energy. ESG Overall: 63.6. GrowthRate: 19.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2148.2, Revenue: 11619.0.
+CompanyID: 582. Ticker: 582. Industry: Healthcare. ESG Overall: 81.3. GrowthRate: 14.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13841.9, Revenue: 4532.4.
+CompanyID: 583. Ticker: 583. Industry: Healthcare. ESG Overall: 28.4. GrowthRate: 22.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16535.3, Revenue: 9455.1.
+CompanyID: 584. Ticker: 584. Industry: Healthcare. ESG Overall: 66.5. GrowthRate: 2.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8950.4, Revenue: 5001.4.
+CompanyID: 585. Ticker: 585. Industry: Energy. ESG Overall: 32.1. GrowthRate: 12.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 41446.7, Revenue: 12717.0.
+CompanyID: 586. Ticker: 586. Industry: Transportation. ESG Overall: 46.3. GrowthRate: 12.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1251.0, Revenue: 988.1.
+CompanyID: 587. Ticker: 587. Industry: Healthcare. ESG Overall: 64.5. GrowthRate: 12.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 28688.9, Revenue: 4663.1.
+CompanyID: 588. Ticker: 588. Industry: Energy. ESG Overall: 50.2. GrowthRate: 12.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 56754.9, Revenue: 15231.5.
+CompanyID: 589. Ticker: 589. Industry: Finance. ESG Overall: 79.3. GrowthRate: 0.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6694.7, Revenue: 3808.6.
+CompanyID: 590. Ticker: 590. Industry: Manufacturing. ESG Overall: 59.2. GrowthRate: -2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10090.7, Revenue: 2649.3.
+CompanyID: 591. Ticker: 591. Industry: Manufacturing. ESG Overall: 66.5. GrowthRate: 9.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5162.5, Revenue: 2138.3.
+CompanyID: 592. Ticker: 592. Industry: Utilities. ESG Overall: 57.6. GrowthRate: -2.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1510.8, Revenue: 1880.2.
+CompanyID: 593. Ticker: 593. Industry: Manufacturing. ESG Overall: 33.6. GrowthRate: 8.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8971.5, Revenue: 7945.7.
+CompanyID: 594. Ticker: 594. Industry: Utilities. ESG Overall: 57.2. GrowthRate: 0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1962.2, Revenue: 1557.2.
+CompanyID: 595. Ticker: 595. Industry: Consumer Goods. ESG Overall: 84.2. GrowthRate: 9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 33046.3, Revenue: 3953.5.
+CompanyID: 596. Ticker: 596. Industry: Technology. ESG Overall: 92.3. GrowthRate: 15.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 471228.1, Revenue: 119460.4.
+CompanyID: 597. Ticker: 597. Industry: Consumer Goods. ESG Overall: 53.6. GrowthRate: 21.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2208.4, Revenue: 1704.7.
+CompanyID: 598. Ticker: 598. Industry: Utilities. ESG Overall: 49.2. GrowthRate: -3.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2001.2, Revenue: 1219.5.
+CompanyID: 599. Ticker: 599. Industry: Transportation. ESG Overall: 56.9. GrowthRate: -12.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 95.1, Revenue: 209.8.
+CompanyID: 600. Ticker: 600. Industry: Technology. ESG Overall: 60.1. GrowthRate: 12.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 19089.6, Revenue: 6755.8.
+CompanyID: 601. Ticker: 601. Industry: Retail. ESG Overall: 74.4. GrowthRate: -6.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3156.8, Revenue: 706.0.
+CompanyID: 602. Ticker: 602. Industry: Technology. ESG Overall: 68.3. GrowthRate: 5.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16387.3, Revenue: 11698.9.
+CompanyID: 603. Ticker: 603. Industry: Utilities. ESG Overall: 57.1. GrowthRate: -3.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1651.0, Revenue: 752.9.
+CompanyID: 604. Ticker: 604. Industry: Retail. ESG Overall: 63.8. GrowthRate: 5.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2914.2, Revenue: 972.5.
+CompanyID: 605. Ticker: 605. Industry: Energy. ESG Overall: 45.1. GrowthRate: -10.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 71488.6, Revenue: 12648.6.
+CompanyID: 606. Ticker: 606. Industry: Transportation. ESG Overall: 51.9. GrowthRate: 23.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 959.5, Revenue: 5758.4.
+CompanyID: 607. Ticker: 607. Industry: Healthcare. ESG Overall: 88.1. GrowthRate: 17.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 220364.6, Revenue: 61413.6.
+CompanyID: 608. Ticker: 608. Industry: Finance. ESG Overall: 62.9. GrowthRate: 0.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 35644.3, Revenue: 9153.0.
+CompanyID: 609. Ticker: 609. Industry: Manufacturing. ESG Overall: 38.3. GrowthRate: 7.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 18952.1, Revenue: 6094.2.
+CompanyID: 610. Ticker: 610. Industry: Technology. ESG Overall: 92.6. GrowthRate: 3.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 40322.7, Revenue: 7669.6.
+CompanyID: 611. Ticker: 611. Industry: Energy. ESG Overall: 28.3. GrowthRate: 14.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 115357.9, Revenue: 22642.5.
+CompanyID: 612. Ticker: 612. Industry: Utilities. ESG Overall: 64.6. GrowthRate: -10.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 237.8, Revenue: 575.7.
+CompanyID: 613. Ticker: 613. Industry: Consumer Goods. ESG Overall: 76.4. GrowthRate: 1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15545.9, Revenue: 4774.7.
+CompanyID: 614. Ticker: 614. Industry: Finance. ESG Overall: 82.1. GrowthRate: 9.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2263.2, Revenue: 7904.7.
+CompanyID: 615. Ticker: 615. Industry: Transportation. ESG Overall: 81.1. GrowthRate: 2.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1483.1, Revenue: 1136.3.
+CompanyID: 616. Ticker: 616. Industry: Retail. ESG Overall: 44.6. GrowthRate: 5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1006.3, Revenue: 1738.0.
+CompanyID: 617. Ticker: 617. Industry: Healthcare. ESG Overall: 64.4. GrowthRate: 14.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 41331.4, Revenue: 9950.0.
+CompanyID: 618. Ticker: 618. Industry: Utilities. ESG Overall: 44.7. GrowthRate: 12.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1623.9, Revenue: 1065.2.
+CompanyID: 619. Ticker: 619. Industry: Healthcare. ESG Overall: 61.3. GrowthRate: -0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 981.2, Revenue: 977.3.
+CompanyID: 620. Ticker: 620. Industry: Retail. ESG Overall: 57.0. GrowthRate: 9.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3345.7, Revenue: 3556.8.
+CompanyID: 621. Ticker: 621. Industry: Transportation. ESG Overall: 65.1. GrowthRate: 7.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 445.7, Revenue: 368.1.
+CompanyID: 622. Ticker: 622. Industry: Transportation. ESG Overall: 30.6. GrowthRate: -0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1787.0, Revenue: 1726.2.
+CompanyID: 623. Ticker: 623. Industry: Consumer Goods. ESG Overall: 60.9. GrowthRate: 14.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 835.7, Revenue: 1161.1.
+CompanyID: 624. Ticker: 624. Industry: Healthcare. ESG Overall: 53.4. GrowthRate: 11.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10931.4, Revenue: 2518.7.
+CompanyID: 625. Ticker: 625. Industry: Energy. ESG Overall: 39.0. GrowthRate: -0.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2044.2, Revenue: 5455.1.
+CompanyID: 626. Ticker: 626. Industry: Healthcare. ESG Overall: 76.8. GrowthRate: 11.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16096.9, Revenue: 10774.6.
+CompanyID: 627. Ticker: 627. Industry: Transportation. ESG Overall: 50.3. GrowthRate: 1.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2019.5, Revenue: 823.6.
+CompanyID: 628. Ticker: 628. Industry: Energy. ESG Overall: 63.8. GrowthRate: -0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10088.6, Revenue: 4072.9.
+CompanyID: 629. Ticker: 629. Industry: Retail. ESG Overall: 66.1. GrowthRate: 19.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4403.8, Revenue: 2555.2.
+CompanyID: 630. Ticker: 630. Industry: Consumer Goods. ESG Overall: 69.3. GrowthRate: 4.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2150.2, Revenue: 740.8.
+CompanyID: 631. Ticker: 631. Industry: Manufacturing. ESG Overall: 41.7. GrowthRate: 5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 568.1, Revenue: 1157.2.
+CompanyID: 632. Ticker: 632. Industry: Transportation. ESG Overall: 57.6. GrowthRate: 2.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2337.0, Revenue: 2232.6.
+CompanyID: 633. Ticker: 633. Industry: Utilities. ESG Overall: 67.3. GrowthRate: 15.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 575.1, Revenue: 412.1.
+CompanyID: 634. Ticker: 634. Industry: Healthcare. ESG Overall: 51.8. GrowthRate: -1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8025.8, Revenue: 1595.4.
+CompanyID: 635. Ticker: 635. Industry: Transportation. ESG Overall: 47.1. GrowthRate: -2.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 246.8, Revenue: 870.1.
+CompanyID: 636. Ticker: 636. Industry: Consumer Goods. ESG Overall: 60.5. GrowthRate: 2.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2622.3, Revenue: 1138.3.
+CompanyID: 637. Ticker: 637. Industry: Utilities. ESG Overall: 59.2. GrowthRate: 12.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1606.9, Revenue: 1192.4.
+CompanyID: 638. Ticker: 638. Industry: Healthcare. ESG Overall: 76.3. GrowthRate: 31.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 42129.2, Revenue: 10604.8.
+CompanyID: 639. Ticker: 639. Industry: Healthcare. ESG Overall: 27.0. GrowthRate: 10.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2530.4, Revenue: 2788.2.
+CompanyID: 640. Ticker: 640. Industry: Finance. ESG Overall: 60.1. GrowthRate: -1.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 59943.4, Revenue: 21627.6.
+CompanyID: 641. Ticker: 641. Industry: Manufacturing. ESG Overall: 51.1. GrowthRate: 5.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2009.3, Revenue: 1163.4.
+CompanyID: 642. Ticker: 642. Industry: Retail. ESG Overall: 65.0. GrowthRate: -10.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1293.9, Revenue: 1619.5.
+CompanyID: 643. Ticker: 643. Industry: Manufacturing. ESG Overall: 72.1. GrowthRate: -8.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 47716.7, Revenue: 16492.3.
+CompanyID: 644. Ticker: 644. Industry: Transportation. ESG Overall: 36.5. GrowthRate: 6.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1512.0, Revenue: 1680.7.
+CompanyID: 645. Ticker: 645. Industry: Finance. ESG Overall: 40.2. GrowthRate: 6.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 29909.9, Revenue: 18672.2.
+CompanyID: 646. Ticker: 646. Industry: Energy. ESG Overall: 84.6. GrowthRate: 15.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 300465.1, Revenue: 134253.3.
+CompanyID: 647. Ticker: 647. Industry: Energy. ESG Overall: 60.2. GrowthRate: -10.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16091.5, Revenue: 5405.8.
+CompanyID: 648. Ticker: 648. Industry: Utilities. ESG Overall: 25.7. GrowthRate: 8.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 389.6, Revenue: 332.1.
+CompanyID: 649. Ticker: 649. Industry: Finance. ESG Overall: 81.4. GrowthRate: 11.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8345.7, Revenue: 16331.7.
+CompanyID: 650. Ticker: 650. Industry: Healthcare. ESG Overall: 60.9. GrowthRate: 6.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16525.3, Revenue: 2996.5.
+CompanyID: 651. Ticker: 651. Industry: Energy. ESG Overall: 58.3. GrowthRate: -14.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 34993.9, Revenue: 13587.0.
+CompanyID: 652. Ticker: 652. Industry: Finance. ESG Overall: 44.4. GrowthRate: 3.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8534.3, Revenue: 6030.1.
+CompanyID: 653. Ticker: 653. Industry: Energy. ESG Overall: 67.4. GrowthRate: -15.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 103.3, Revenue: 35.9.
+CompanyID: 654. Ticker: 654. Industry: Energy. ESG Overall: 63.6. GrowthRate: -2.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1182.8, Revenue: 1441.7.
+CompanyID: 655. Ticker: 655. Industry: Finance. ESG Overall: 51.0. GrowthRate: 9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 14780.4, Revenue: 4569.2.
+CompanyID: 656. Ticker: 656. Industry: Finance. ESG Overall: 69.6. GrowthRate: 8.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1924.1, Revenue: 1873.1.
+CompanyID: 657. Ticker: 657. Industry: Manufacturing. ESG Overall: 72.7. GrowthRate: 1.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2366.7, Revenue: 492.6.
+CompanyID: 658. Ticker: 658. Industry: Utilities. ESG Overall: 63.6. GrowthRate: 14.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4562.5, Revenue: 3433.2.
+CompanyID: 659. Ticker: 659. Industry: Technology. ESG Overall: 46.3. GrowthRate: 0.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 78802.9, Revenue: 8177.9.
+CompanyID: 660. Ticker: 660. Industry: Consumer Goods. ESG Overall: 30.9. GrowthRate: 5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 14109.3, Revenue: 3396.3.
+CompanyID: 661. Ticker: 661. Industry: Retail. ESG Overall: 76.3. GrowthRate: 4.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4889.2, Revenue: 1973.9.
+CompanyID: 662. Ticker: 662. Industry: Finance. ESG Overall: 61.6. GrowthRate: 7.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 21150.9, Revenue: 21719.8.
+CompanyID: 663. Ticker: 663. Industry: Finance. ESG Overall: 68.1. GrowthRate: 13.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 77634.9, Revenue: 24586.2.
+CompanyID: 664. Ticker: 664. Industry: Finance. ESG Overall: 72.7. GrowthRate: -3.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17831.4, Revenue: 7642.8.
+CompanyID: 665. Ticker: 665. Industry: Technology. ESG Overall: 63.4. GrowthRate: -2.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 53652.1, Revenue: 11384.2.
+CompanyID: 666. Ticker: 666. Industry: Finance. ESG Overall: 45.9. GrowthRate: -5.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13315.1, Revenue: 7614.6.
+CompanyID: 667. Ticker: 667. Industry: Consumer Goods. ESG Overall: 41.1. GrowthRate: 6.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 354.2, Revenue: 1665.2.
+CompanyID: 668. Ticker: 668. Industry: Retail. ESG Overall: 69.1. GrowthRate: 14.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 19768.5, Revenue: 6691.6.
+CompanyID: 669. Ticker: 669. Industry: Retail. ESG Overall: 39.7. GrowthRate: -20.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1004.2, Revenue: 431.5.
+CompanyID: 670. Ticker: 670. Industry: Technology. ESG Overall: 45.0. GrowthRate: -9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 206573.8, Revenue: 25759.0.
+CompanyID: 671. Ticker: 671. Industry: Technology. ESG Overall: 54.8. GrowthRate: 16.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 72743.4, Revenue: 19454.9.
+CompanyID: 672. Ticker: 672. Industry: Finance. ESG Overall: 47.7. GrowthRate: 13.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1389.5, Revenue: 14134.9.
+CompanyID: 673. Ticker: 673. Industry: Healthcare. ESG Overall: 63.4. GrowthRate: 6.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2949.8, Revenue: 2465.1.
+CompanyID: 674. Ticker: 674. Industry: Finance. ESG Overall: 57.1. GrowthRate: -2.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4423.9, Revenue: 1203.1.
+CompanyID: 675. Ticker: 675. Industry: Transportation. ESG Overall: 80.8. GrowthRate: 7.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 962.6, Revenue: 2790.4.
+CompanyID: 676. Ticker: 676. Industry: Transportation. ESG Overall: 32.7. GrowthRate: -8.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 19.8, Revenue: 660.8.
+CompanyID: 677. Ticker: 677. Industry: Utilities. ESG Overall: 50.2. GrowthRate: 8.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3946.8, Revenue: 4226.4.
+CompanyID: 678. Ticker: 678. Industry: Retail. ESG Overall: 75.1. GrowthRate: 1.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6252.0, Revenue: 4851.3.
+CompanyID: 679. Ticker: 679. Industry: Retail. ESG Overall: 44.0. GrowthRate: 3.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 931.7, Revenue: 1150.2.
+CompanyID: 680. Ticker: 680. Industry: Healthcare. ESG Overall: 48.7. GrowthRate: 1.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15025.2, Revenue: 4976.8.
+CompanyID: 681. Ticker: 681. Industry: Consumer Goods. ESG Overall: 51.5. GrowthRate: 14.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6585.6, Revenue: 3100.3.
+CompanyID: 682. Ticker: 682. Industry: Technology. ESG Overall: 50.3. GrowthRate: -7.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 30737.5, Revenue: 8909.8.
+CompanyID: 683. Ticker: 683. Industry: Manufacturing. ESG Overall: 33.4. GrowthRate: 14.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 438.5, Revenue: 1616.0.
+CompanyID: 684. Ticker: 684. Industry: Finance. ESG Overall: 88.4. GrowthRate: 8.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2511.8, Revenue: 1801.3.
+CompanyID: 685. Ticker: 685. Industry: Energy. ESG Overall: 48.7. GrowthRate: 11.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 49790.7, Revenue: 13754.1.
+CompanyID: 686. Ticker: 686. Industry: Transportation. ESG Overall: 30.6. GrowthRate: -0.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 719.6, Revenue: 350.0.
+CompanyID: 687. Ticker: 687. Industry: Retail. ESG Overall: 45.9. GrowthRate: 7.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 56.0, Revenue: 9088.5.
+CompanyID: 688. Ticker: 688. Industry: Technology. ESG Overall: 46.6. GrowthRate: 25.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7887.1, Revenue: 3467.4.
+CompanyID: 689. Ticker: 689. Industry: Finance. ESG Overall: 61.7. GrowthRate: 3.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1828.7, Revenue: 1822.3.
+CompanyID: 690. Ticker: 690. Industry: Finance. ESG Overall: 87.8. GrowthRate: 3.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7164.3, Revenue: 4073.9.
+CompanyID: 691. Ticker: 691. Industry: Healthcare. ESG Overall: 70.7. GrowthRate: 11.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15634.1, Revenue: 7986.6.
+CompanyID: 692. Ticker: 692. Industry: Healthcare. ESG Overall: 78.7. GrowthRate: 18.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 654.5, Revenue: 2820.5.
+CompanyID: 693. Ticker: 693. Industry: Retail. ESG Overall: 52.5. GrowthRate: 8.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 108.9, Revenue: 709.8.
+CompanyID: 694. Ticker: 694. Industry: Consumer Goods. ESG Overall: 72.5. GrowthRate: 11.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11217.6, Revenue: 6571.9.
+CompanyID: 695. Ticker: 695. Industry: Manufacturing. ESG Overall: 58.3. GrowthRate: 2.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 475.4, Revenue: 834.7.
+CompanyID: 696. Ticker: 696. Industry: Healthcare. ESG Overall: 51.8. GrowthRate: 8.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5933.4, Revenue: 3939.9.
+CompanyID: 697. Ticker: 697. Industry: Healthcare. ESG Overall: 62.3. GrowthRate: -4.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3153.0, Revenue: 2102.3.
+CompanyID: 698. Ticker: 698. Industry: Retail. ESG Overall: 81.7. GrowthRate: -3.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1796.2, Revenue: 2719.7.
+CompanyID: 699. Ticker: 699. Industry: Transportation. ESG Overall: 66.5. GrowthRate: 0.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1751.1, Revenue: 845.0.
+CompanyID: 700. Ticker: 700. Industry: Technology. ESG Overall: 72.6. GrowthRate: 10.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 84897.5, Revenue: 18422.8.
+CompanyID: 701. Ticker: 701. Industry: Transportation. ESG Overall: 65.6. GrowthRate: 7.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 19.9, Revenue: 170.0.
+CompanyID: 702. Ticker: 702. Industry: Manufacturing. ESG Overall: 52.5. GrowthRate: -10.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2800.3, Revenue: 2702.9.
+CompanyID: 703. Ticker: 703. Industry: Retail. ESG Overall: 65.9. GrowthRate: 4.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 997.0, Revenue: 835.0.
+CompanyID: 704. Ticker: 704. Industry: Utilities. ESG Overall: 78.3. GrowthRate: -1.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1434.1, Revenue: 709.7.
+CompanyID: 705. Ticker: 705. Industry: Consumer Goods. ESG Overall: 38.8. GrowthRate: 12.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12716.8, Revenue: 3301.0.
+CompanyID: 706. Ticker: 706. Industry: Healthcare. ESG Overall: 66.8. GrowthRate: 5.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16377.1, Revenue: 10314.8.
+CompanyID: 707. Ticker: 707. Industry: Utilities. ESG Overall: 82.0. GrowthRate: 5.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 917.4, Revenue: 2038.2.
+CompanyID: 708. Ticker: 708. Industry: Retail. ESG Overall: 83.9. GrowthRate: -5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1721.2, Revenue: 639.8.
+CompanyID: 709. Ticker: 709. Industry: Finance. ESG Overall: 75.8. GrowthRate: 18.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 28238.6, Revenue: 8986.6.
+CompanyID: 710. Ticker: 710. Industry: Manufacturing. ESG Overall: 33.5. GrowthRate: 7.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3662.9, Revenue: 3731.9.
+CompanyID: 711. Ticker: 711. Industry: Consumer Goods. ESG Overall: 56.1. GrowthRate: 5.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7317.1, Revenue: 4091.6.
+CompanyID: 712. Ticker: 712. Industry: Healthcare. ESG Overall: 61.5. GrowthRate: 11.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13086.8, Revenue: 4173.7.
+CompanyID: 713. Ticker: 713. Industry: Energy. ESG Overall: 64.2. GrowthRate: -10.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8035.3, Revenue: 1794.8.
+CompanyID: 714. Ticker: 714. Industry: Transportation. ESG Overall: 52.8. GrowthRate: -13.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 182.2, Revenue: 131.4.
+CompanyID: 715. Ticker: 715. Industry: Technology. ESG Overall: 63.0. GrowthRate: 1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 38828.0, Revenue: 4688.2.
+CompanyID: 716. Ticker: 716. Industry: Retail. ESG Overall: 49.2. GrowthRate: 5.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 22.2, Revenue: 389.9.
+CompanyID: 717. Ticker: 717. Industry: Energy. ESG Overall: 61.9. GrowthRate: 1.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 219723.9, Revenue: 24550.0.
+CompanyID: 718. Ticker: 718. Industry: Healthcare. ESG Overall: 45.3. GrowthRate: -3.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6829.1, Revenue: 1532.1.
+CompanyID: 719. Ticker: 719. Industry: Retail. ESG Overall: 61.1. GrowthRate: -6.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 312.8, Revenue: 853.3.
+CompanyID: 720. Ticker: 720. Industry: Energy. ESG Overall: 58.0. GrowthRate: 14.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 28934.8, Revenue: 14775.2.
+CompanyID: 721. Ticker: 721. Industry: Manufacturing. ESG Overall: 62.6. GrowthRate: -1.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2534.1, Revenue: 771.4.
+CompanyID: 722. Ticker: 722. Industry: Healthcare. ESG Overall: 47.3. GrowthRate: 24.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 16521.2, Revenue: 5365.9.
+CompanyID: 723. Ticker: 723. Industry: Manufacturing. ESG Overall: 76.1. GrowthRate: 18.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 24604.3, Revenue: 15963.6.
+CompanyID: 724. Ticker: 724. Industry: Retail. ESG Overall: 74.9. GrowthRate: 2.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1144.4, Revenue: 433.9.
+CompanyID: 725. Ticker: 725. Industry: Finance. ESG Overall: 87.3. GrowthRate: 7.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 21244.8, Revenue: 7860.0.
+CompanyID: 726. Ticker: 726. Industry: Healthcare. ESG Overall: 53.3. GrowthRate: 0.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11817.4, Revenue: 3204.0.
+CompanyID: 727. Ticker: 727. Industry: Retail. ESG Overall: 70.7. GrowthRate: 12.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 402.0, Revenue: 2543.6.
+CompanyID: 728. Ticker: 728. Industry: Retail. ESG Overall: 67.1. GrowthRate: -6.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6688.1, Revenue: 3793.2.
+CompanyID: 729. Ticker: 729. Industry: Consumer Goods. ESG Overall: 68.0. GrowthRate: -1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1147.1, Revenue: 9345.4.
+CompanyID: 730. Ticker: 730. Industry: Manufacturing. ESG Overall: 40.1. GrowthRate: 13.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1126.9, Revenue: 332.5.
+CompanyID: 731. Ticker: 731. Industry: Finance. ESG Overall: 79.3. GrowthRate: 9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17061.7, Revenue: 7717.8.
+CompanyID: 732. Ticker: 732. Industry: Transportation. ESG Overall: 53.7. GrowthRate: 11.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6477.3, Revenue: 3310.2.
+CompanyID: 733. Ticker: 733. Industry: Utilities. ESG Overall: 75.1. GrowthRate: -20.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1342.7, Revenue: 1296.2.
+CompanyID: 734. Ticker: 734. Industry: Consumer Goods. ESG Overall: 70.0. GrowthRate: 8.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2062.8, Revenue: 1690.8.
+CompanyID: 735. Ticker: 735. Industry: Finance. ESG Overall: 49.8. GrowthRate: 0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7284.6, Revenue: 3168.8.
+CompanyID: 736. Ticker: 736. Industry: Finance. ESG Overall: 68.6. GrowthRate: 7.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2496.1, Revenue: 1565.1.
+CompanyID: 737. Ticker: 737. Industry: Technology. ESG Overall: 34.4. GrowthRate: 16.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 57582.9, Revenue: 5984.4.
+CompanyID: 738. Ticker: 738. Industry: Consumer Goods. ESG Overall: 36.8. GrowthRate: -1.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2734.2, Revenue: 548.4.
+CompanyID: 739. Ticker: 739. Industry: Utilities. ESG Overall: 50.1. GrowthRate: -8.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 678.8, Revenue: 1066.0.
+CompanyID: 740. Ticker: 740. Industry: Manufacturing. ESG Overall: 51.1. GrowthRate: 4.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1132.3, Revenue: 607.4.
+CompanyID: 741. Ticker: 741. Industry: Retail. ESG Overall: 58.9. GrowthRate: -0.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2464.0, Revenue: 1051.2.
+CompanyID: 742. Ticker: 742. Industry: Transportation. ESG Overall: 54.2. GrowthRate: 20.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3255.9, Revenue: 1653.7.
+CompanyID: 743. Ticker: 743. Industry: Finance. ESG Overall: 67.3. GrowthRate: 6.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 41485.4, Revenue: 15533.8.
+CompanyID: 744. Ticker: 744. Industry: Transportation. ESG Overall: 69.6. GrowthRate: 1.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3373.5, Revenue: 4228.7.
+CompanyID: 745. Ticker: 745. Industry: Utilities. ESG Overall: 41.2. GrowthRate: -9.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7900.7, Revenue: 3808.0.
+CompanyID: 746. Ticker: 746. Industry: Transportation. ESG Overall: 68.2. GrowthRate: 10.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 225.2, Revenue: 1698.2.
+CompanyID: 747. Ticker: 747. Industry: Manufacturing. ESG Overall: 44.3. GrowthRate: -8.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3164.8, Revenue: 1771.6.
+CompanyID: 748. Ticker: 748. Industry: Healthcare. ESG Overall: 44.0. GrowthRate: 14.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3094.7, Revenue: 1035.8.
+CompanyID: 749. Ticker: 749. Industry: Retail. ESG Overall: 76.3. GrowthRate: 16.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1322.0, Revenue: 475.0.
+CompanyID: 750. Ticker: 750. Industry: Finance. ESG Overall: 75.5. GrowthRate: 1.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 22187.0, Revenue: 6425.2.
+CompanyID: 751. Ticker: 751. Industry: Transportation. ESG Overall: 48.5. GrowthRate: 3.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 411.9, Revenue: 223.8.
+CompanyID: 752. Ticker: 752. Industry: Healthcare. ESG Overall: 56.9. GrowthRate: -6.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8201.5, Revenue: 15349.4.
+CompanyID: 753. Ticker: 753. Industry: Healthcare. ESG Overall: 82.9. GrowthRate: 6.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6368.2, Revenue: 1327.0.
+CompanyID: 754. Ticker: 754. Industry: Transportation. ESG Overall: 56.4. GrowthRate: 11.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4312.7, Revenue: 2340.5.
+CompanyID: 755. Ticker: 755. Industry: Finance. ESG Overall: 70.3. GrowthRate: 7.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3216.7, Revenue: 7730.0.
+CompanyID: 756. Ticker: 756. Industry: Technology. ESG Overall: 73.4. GrowthRate: 5.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 124839.8, Revenue: 18906.3.
+CompanyID: 757. Ticker: 757. Industry: Transportation. ESG Overall: 60.7. GrowthRate: 15.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1030.7, Revenue: 551.5.
+CompanyID: 758. Ticker: 758. Industry: Healthcare. ESG Overall: 50.1. GrowthRate: 14.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 59636.1, Revenue: 36695.2.
+CompanyID: 759. Ticker: 759. Industry: Energy. ESG Overall: 57.9. GrowthRate: 11.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 398218.7, Revenue: 168988.9.
+CompanyID: 760. Ticker: 760. Industry: Manufacturing. ESG Overall: 80.3. GrowthRate: -7.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5685.1, Revenue: 2198.5.
+CompanyID: 761. Ticker: 761. Industry: Technology. ESG Overall: 58.0. GrowthRate: 10.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 105795.3, Revenue: 79180.5.
+CompanyID: 762. Ticker: 762. Industry: Technology. ESG Overall: 75.3. GrowthRate: 7.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 78860.0, Revenue: 14771.9.
+CompanyID: 763. Ticker: 763. Industry: Technology. ESG Overall: 62.2. GrowthRate: 5.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 20995.7, Revenue: 2831.6.
+CompanyID: 764. Ticker: 764. Industry: Energy. ESG Overall: 63.7. GrowthRate: 25.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 199393.2, Revenue: 62170.9.
+CompanyID: 765. Ticker: 765. Industry: Transportation. ESG Overall: 47.8. GrowthRate: 5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1068.6, Revenue: 1440.4.
+CompanyID: 766. Ticker: 766. Industry: Finance. ESG Overall: 69.2. GrowthRate: 16.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 18634.9, Revenue: 4173.9.
+CompanyID: 767. Ticker: 767. Industry: Finance. ESG Overall: 56.2. GrowthRate: 0.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 30443.2, Revenue: 22188.9.
+CompanyID: 768. Ticker: 768. Industry: Healthcare. ESG Overall: 36.0. GrowthRate: 21.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12241.5, Revenue: 10405.1.
+CompanyID: 769. Ticker: 769. Industry: Manufacturing. ESG Overall: 30.1. GrowthRate: -3.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7560.7, Revenue: 2204.1.
+CompanyID: 770. Ticker: 770. Industry: Retail. ESG Overall: 43.8. GrowthRate: -1.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1688.0, Revenue: 1028.2.
+CompanyID: 771. Ticker: 771. Industry: Transportation. ESG Overall: 33.6. GrowthRate: -15.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1399.3, Revenue: 284.6.
+CompanyID: 772. Ticker: 772. Industry: Transportation. ESG Overall: 42.6. GrowthRate: 7.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 205.4, Revenue: 1055.4.
+CompanyID: 773. Ticker: 773. Industry: Manufacturing. ESG Overall: 55.3. GrowthRate: 1.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1314.6, Revenue: 502.1.
+CompanyID: 774. Ticker: 774. Industry: Utilities. ESG Overall: 30.7. GrowthRate: -2.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 353.1, Revenue: 898.2.
+CompanyID: 775. Ticker: 775. Industry: Manufacturing. ESG Overall: 61.7. GrowthRate: -1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1635.9, Revenue: 514.8.
+CompanyID: 776. Ticker: 776. Industry: Consumer Goods. ESG Overall: 46.8. GrowthRate: -7.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2254.1, Revenue: 1096.0.
+CompanyID: 777. Ticker: 777. Industry: Utilities. ESG Overall: 47.3. GrowthRate: 2.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3553.2, Revenue: 2069.6.
+CompanyID: 778. Ticker: 778. Industry: Finance. ESG Overall: 81.3. GrowthRate: 5.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3830.3, Revenue: 1223.4.
+CompanyID: 779. Ticker: 779. Industry: Retail. ESG Overall: 74.7. GrowthRate: 15.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 569.0, Revenue: 2834.1.
+CompanyID: 780. Ticker: 780. Industry: Transportation. ESG Overall: 38.2. GrowthRate: -2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 672.0, Revenue: 451.6.
+CompanyID: 781. Ticker: 781. Industry: Technology. ESG Overall: 62.1. GrowthRate: -2.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 59708.3, Revenue: 8059.4.
+CompanyID: 782. Ticker: 782. Industry: Finance. ESG Overall: 60.4. GrowthRate: 1.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 34017.3, Revenue: 13768.4.
+CompanyID: 783. Ticker: 783. Industry: Manufacturing. ESG Overall: 44.2. GrowthRate: 17.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10714.6, Revenue: 5708.4.
+CompanyID: 784. Ticker: 784. Industry: Manufacturing. ESG Overall: 30.9. GrowthRate: 23.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1544.2, Revenue: 910.6.
+CompanyID: 785. Ticker: 785. Industry: Retail. ESG Overall: 50.6. GrowthRate: 5.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 809.9, Revenue: 728.5.
+CompanyID: 786. Ticker: 786. Industry: Energy. ESG Overall: 58.7. GrowthRate: -2.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2553.9, Revenue: 938.1.
+CompanyID: 787. Ticker: 787. Industry: Utilities. ESG Overall: 50.1. GrowthRate: 1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1629.6, Revenue: 882.6.
+CompanyID: 788. Ticker: 788. Industry: Finance. ESG Overall: 78.4. GrowthRate: -6.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1097.7, Revenue: 2848.3.
+CompanyID: 789. Ticker: 789. Industry: Utilities. ESG Overall: 46.4. GrowthRate: 15.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1637.3, Revenue: 1933.8.
+CompanyID: 790. Ticker: 790. Industry: Finance. ESG Overall: 62.2. GrowthRate: 2.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 33375.4, Revenue: 9388.8.
+CompanyID: 791. Ticker: 791. Industry: Retail. ESG Overall: 50.6. GrowthRate: 2.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4274.0, Revenue: 2005.8.
+CompanyID: 792. Ticker: 792. Industry: Finance. ESG Overall: 58.1. GrowthRate: 12.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5236.2, Revenue: 2691.9.
+CompanyID: 793. Ticker: 793. Industry: Manufacturing. ESG Overall: 46.1. GrowthRate: 0.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3515.9, Revenue: 1317.7.
+CompanyID: 794. Ticker: 794. Industry: Technology. ESG Overall: 78.8. GrowthRate: 9.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 59934.9, Revenue: 13767.0.
+CompanyID: 795. Ticker: 795. Industry: Technology. ESG Overall: 78.5. GrowthRate: 7.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 70102.2, Revenue: 48165.3.
+CompanyID: 796. Ticker: 796. Industry: Healthcare. ESG Overall: 76.2. GrowthRate: -0.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 27298.0, Revenue: 12278.1.
+CompanyID: 797. Ticker: 797. Industry: Manufacturing. ESG Overall: 71.8. GrowthRate: -11.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2593.5, Revenue: 1185.3.
+CompanyID: 798. Ticker: 798. Industry: Transportation. ESG Overall: 59.2. GrowthRate: 9.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 35.0, Revenue: 237.4.
+CompanyID: 799. Ticker: 799. Industry: Consumer Goods. ESG Overall: 76.2. GrowthRate: -5.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1788.0, Revenue: 4349.1.
+CompanyID: 800. Ticker: 800. Industry: Transportation. ESG Overall: 44.9. GrowthRate: -3.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8802.6, Revenue: 3081.5.
+CompanyID: 801. Ticker: 801. Industry: Finance. ESG Overall: 50.5. GrowthRate: 12.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11955.7, Revenue: 11988.7.
+CompanyID: 802. Ticker: 802. Industry: Consumer Goods. ESG Overall: 74.8. GrowthRate: 12.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3647.7, Revenue: 3595.3.
+CompanyID: 803. Ticker: 803. Industry: Consumer Goods. ESG Overall: 28.4. GrowthRate: -5.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4676.4, Revenue: 1873.5.
+CompanyID: 804. Ticker: 804. Industry: Energy. ESG Overall: 74.3. GrowthRate: -6.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 32584.8, Revenue: 8288.1.
+CompanyID: 805. Ticker: 805. Industry: Healthcare. ESG Overall: 60.5. GrowthRate: 5.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 261.7, Revenue: 822.8.
+CompanyID: 806. Ticker: 806. Industry: Finance. ESG Overall: 80.4. GrowthRate: -6.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 330.3, Revenue: 640.4.
+CompanyID: 807. Ticker: 807. Industry: Transportation. ESG Overall: 65.3. GrowthRate: 6.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1304.6, Revenue: 1169.9.
+CompanyID: 808. Ticker: 808. Industry: Technology. ESG Overall: 73.6. GrowthRate: 14.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 102146.7, Revenue: 12974.1.
+CompanyID: 809. Ticker: 809. Industry: Utilities. ESG Overall: 56.7. GrowthRate: -2.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1484.0, Revenue: 591.4.
+CompanyID: 810. Ticker: 810. Industry: Healthcare. ESG Overall: 34.2. GrowthRate: 10.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 20993.7, Revenue: 4636.3.
+CompanyID: 811. Ticker: 811. Industry: Finance. ESG Overall: 59.6. GrowthRate: -0.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 89226.3, Revenue: 34940.7.
+CompanyID: 812. Ticker: 812. Industry: Manufacturing. ESG Overall: 45.2. GrowthRate: 4.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1642.7, Revenue: 522.2.
+CompanyID: 813. Ticker: 813. Industry: Finance. ESG Overall: 78.8. GrowthRate: 23.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6067.9, Revenue: 3760.6.
+CompanyID: 814. Ticker: 814. Industry: Consumer Goods. ESG Overall: 67.6. GrowthRate: 26.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7120.2, Revenue: 1967.0.
+CompanyID: 815. Ticker: 815. Industry: Technology. ESG Overall: 59.2. GrowthRate: 9.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 76421.0, Revenue: 23043.7.
+CompanyID: 816. Ticker: 816. Industry: Manufacturing. ESG Overall: 25.1. GrowthRate: 15.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5894.6, Revenue: 5486.0.
+CompanyID: 817. Ticker: 817. Industry: Energy. ESG Overall: 55.1. GrowthRate: 23.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 116869.6, Revenue: 25950.8.
+CompanyID: 818. Ticker: 818. Industry: Consumer Goods. ESG Overall: 53.5. GrowthRate: -1.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 681.9, Revenue: 622.6.
+CompanyID: 819. Ticker: 819. Industry: Finance. ESG Overall: 66.5. GrowthRate: 0.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5047.0, Revenue: 2919.5.
+CompanyID: 820. Ticker: 820. Industry: Energy. ESG Overall: 57.0. GrowthRate: 26.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2130.9, Revenue: 2098.4.
+CompanyID: 821. Ticker: 821. Industry: Manufacturing. ESG Overall: 38.5. GrowthRate: 4.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4286.0, Revenue: 1389.8.
+CompanyID: 822. Ticker: 822. Industry: Finance. ESG Overall: 59.5. GrowthRate: 5.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2168.6, Revenue: 1073.9.
+CompanyID: 823. Ticker: 823. Industry: Retail. ESG Overall: 75.5. GrowthRate: 2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1885.5, Revenue: 1722.7.
+CompanyID: 824. Ticker: 824. Industry: Transportation. ESG Overall: 55.3. GrowthRate: 3.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1143.0, Revenue: 797.5.
+CompanyID: 825. Ticker: 825. Industry: Utilities. ESG Overall: 69.3. GrowthRate: 18.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 161.3, Revenue: 1241.9.
+CompanyID: 826. Ticker: 826. Industry: Transportation. ESG Overall: 65.2. GrowthRate: -0.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1444.8, Revenue: 715.1.
+CompanyID: 827. Ticker: 827. Industry: Retail. ESG Overall: 44.3. GrowthRate: 5.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6858.4, Revenue: 3143.5.
+CompanyID: 828. Ticker: 828. Industry: Technology. ESG Overall: 90.5. GrowthRate: 18.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 234060.3, Revenue: 24884.9.
+CompanyID: 829. Ticker: 829. Industry: Manufacturing. ESG Overall: 52.9. GrowthRate: -0.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4107.1, Revenue: 3138.4.
+CompanyID: 830. Ticker: 830. Industry: Manufacturing. ESG Overall: 60.6. GrowthRate: 3.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11732.5, Revenue: 3772.6.
+CompanyID: 831. Ticker: 831. Industry: Manufacturing. ESG Overall: 79.9. GrowthRate: -1.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3972.4, Revenue: 2463.0.
+CompanyID: 832. Ticker: 832. Industry: Consumer Goods. ESG Overall: 41.5. GrowthRate: -3.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2444.8, Revenue: 1234.0.
+CompanyID: 833. Ticker: 833. Industry: Consumer Goods. ESG Overall: 61.8. GrowthRate: 7.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1891.5, Revenue: 1305.6.
+CompanyID: 834. Ticker: 834. Industry: Technology. ESG Overall: 87.7. GrowthRate: 13.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 46957.7, Revenue: 19224.2.
+CompanyID: 835. Ticker: 835. Industry: Healthcare. ESG Overall: 36.1. GrowthRate: -5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 30706.1, Revenue: 5191.5.
+CompanyID: 836. Ticker: 836. Industry: Retail. ESG Overall: 68.0. GrowthRate: -7.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1180.6, Revenue: 247.2.
+CompanyID: 837. Ticker: 837. Industry: Healthcare. ESG Overall: 71.5. GrowthRate: 13.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10121.9, Revenue: 2234.8.
+CompanyID: 838. Ticker: 838. Industry: Finance. ESG Overall: 80.9. GrowthRate: 2.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9098.0, Revenue: 20162.6.
+CompanyID: 839. Ticker: 839. Industry: Manufacturing. ESG Overall: 59.1. GrowthRate: 8.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4658.4, Revenue: 2420.5.
+CompanyID: 840. Ticker: 840. Industry: Utilities. ESG Overall: 59.6. GrowthRate: -12.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 322.5, Revenue: 1721.6.
+CompanyID: 841. Ticker: 841. Industry: Energy. ESG Overall: 28.0. GrowthRate: -15.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1287.1, Revenue: 392.1.
+CompanyID: 842. Ticker: 842. Industry: Healthcare. ESG Overall: 66.2. GrowthRate: 3.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1408.2, Revenue: 710.2.
+CompanyID: 843. Ticker: 843. Industry: Retail. ESG Overall: 60.9. GrowthRate: -2.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4555.3, Revenue: 2430.5.
+CompanyID: 844. Ticker: 844. Industry: Utilities. ESG Overall: 38.8. GrowthRate: 4.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2180.9, Revenue: 1910.2.
+CompanyID: 845. Ticker: 845. Industry: Retail. ESG Overall: 60.4. GrowthRate: 17.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 160.5, Revenue: 1871.7.
+CompanyID: 846. Ticker: 846. Industry: Energy. ESG Overall: 43.7. GrowthRate: 6.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1876.3, Revenue: 1608.2.
+CompanyID: 847. Ticker: 847. Industry: Finance. ESG Overall: 63.3. GrowthRate: -6.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4387.8, Revenue: 4425.9.
+CompanyID: 848. Ticker: 848. Industry: Manufacturing. ESG Overall: 71.5. GrowthRate: -6.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 642.7, Revenue: 329.1.
+CompanyID: 849. Ticker: 849. Industry: Technology. ESG Overall: 72.3. GrowthRate: 12.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 97669.6, Revenue: 11225.3.
+CompanyID: 850. Ticker: 850. Industry: Healthcare. ESG Overall: 60.9. GrowthRate: 12.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15295.3, Revenue: 6212.6.
+CompanyID: 851. Ticker: 851. Industry: Energy. ESG Overall: 79.8. GrowthRate: -8.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 572.3, Revenue: 536.2.
+CompanyID: 852. Ticker: 852. Industry: Energy. ESG Overall: 34.4. GrowthRate: 0.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 200.6, Revenue: 140.6.
+CompanyID: 853. Ticker: 853. Industry: Energy. ESG Overall: 65.1. GrowthRate: -25.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 292.1, Revenue: 69.3.
+CompanyID: 854. Ticker: 854. Industry: Manufacturing. ESG Overall: 49.4. GrowthRate: 4.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3334.8, Revenue: 2343.5.
+CompanyID: 855. Ticker: 855. Industry: Healthcare. ESG Overall: 46.2. GrowthRate: 11.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3097.3, Revenue: 1401.9.
+CompanyID: 856. Ticker: 856. Industry: Healthcare. ESG Overall: 76.1. GrowthRate: 13.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17010.7, Revenue: 3751.1.
+CompanyID: 857. Ticker: 857. Industry: Retail. ESG Overall: 77.2. GrowthRate: 4.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 25.4, Revenue: 3558.2.
+CompanyID: 858. Ticker: 858. Industry: Finance. ESG Overall: 82.2. GrowthRate: 16.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3423.4, Revenue: 4774.0.
+CompanyID: 859. Ticker: 859. Industry: Consumer Goods. ESG Overall: 57.9. GrowthRate: -7.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4637.6, Revenue: 2758.1.
+CompanyID: 860. Ticker: 860. Industry: Consumer Goods. ESG Overall: 41.5. GrowthRate: -3.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5884.2, Revenue: 2666.6.
+CompanyID: 861. Ticker: 861. Industry: Consumer Goods. ESG Overall: 46.9. GrowthRate: 2.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3001.6, Revenue: 1893.4.
+CompanyID: 862. Ticker: 862. Industry: Finance. ESG Overall: 66.9. GrowthRate: 8.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11128.7, Revenue: 5949.0.
+CompanyID: 863. Ticker: 863. Industry: Healthcare. ESG Overall: 30.9. GrowthRate: 22.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11026.8, Revenue: 4213.9.
+CompanyID: 864. Ticker: 864. Industry: Consumer Goods. ESG Overall: 61.3. GrowthRate: 8.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8264.2, Revenue: 3611.4.
+CompanyID: 865. Ticker: 865. Industry: Consumer Goods. ESG Overall: 55.1. GrowthRate: 23.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 839.8, Revenue: 2209.3.
+CompanyID: 866. Ticker: 866. Industry: Utilities. ESG Overall: 65.1. GrowthRate: 1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1498.4, Revenue: 1108.8.
+CompanyID: 867. Ticker: 867. Industry: Retail. ESG Overall: 49.9. GrowthRate: 16.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 678.4, Revenue: 547.8.
+CompanyID: 868. Ticker: 868. Industry: Technology. ESG Overall: 71.6. GrowthRate: 11.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 60954.7, Revenue: 41357.3.
+CompanyID: 869. Ticker: 869. Industry: Healthcare. ESG Overall: 40.0. GrowthRate: 4.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2837.5, Revenue: 820.5.
+CompanyID: 870. Ticker: 870. Industry: Finance. ESG Overall: 96.0. GrowthRate: 10.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2859.0, Revenue: 10588.4.
+CompanyID: 871. Ticker: 871. Industry: Finance. ESG Overall: 69.0. GrowthRate: 16.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 737.5, Revenue: 262.7.
+CompanyID: 872. Ticker: 872. Industry: Consumer Goods. ESG Overall: 49.6. GrowthRate: -6.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7719.0, Revenue: 2004.3.
+CompanyID: 873. Ticker: 873. Industry: Consumer Goods. ESG Overall: 57.8. GrowthRate: 12.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3437.0, Revenue: 1557.5.
+CompanyID: 874. Ticker: 874. Industry: Manufacturing. ESG Overall: 55.8. GrowthRate: 5.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 948.0, Revenue: 1503.4.
+CompanyID: 875. Ticker: 875. Industry: Healthcare. ESG Overall: 75.6. GrowthRate: 8.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 27936.4, Revenue: 5944.8.
+CompanyID: 876. Ticker: 876. Industry: Healthcare. ESG Overall: 59.7. GrowthRate: 3.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12338.4, Revenue: 3361.4.
+CompanyID: 877. Ticker: 877. Industry: Retail. ESG Overall: 49.6. GrowthRate: -5.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1695.6, Revenue: 1786.5.
+CompanyID: 878. Ticker: 878. Industry: Consumer Goods. ESG Overall: 26.6. GrowthRate: 5.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2599.6, Revenue: 1469.1.
+CompanyID: 879. Ticker: 879. Industry: Utilities. ESG Overall: 55.8. GrowthRate: -0.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1564.1, Revenue: 1162.9.
+CompanyID: 880. Ticker: 880. Industry: Retail. ESG Overall: 53.8. GrowthRate: 6.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8972.8, Revenue: 7401.1.
+CompanyID: 881. Ticker: 881. Industry: Utilities. ESG Overall: 58.7. GrowthRate: 2.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1466.6, Revenue: 1498.5.
+CompanyID: 882. Ticker: 882. Industry: Energy. ESG Overall: 75.4. GrowthRate: 1.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 56454.0, Revenue: 11731.7.
+CompanyID: 883. Ticker: 883. Industry: Technology. ESG Overall: 52.6. GrowthRate: 3.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 42980.0, Revenue: 7897.7.
+CompanyID: 884. Ticker: 884. Industry: Consumer Goods. ESG Overall: 73.1. GrowthRate: 5.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7920.2, Revenue: 4360.4.
+CompanyID: 885. Ticker: 885. Industry: Consumer Goods. ESG Overall: 59.5. GrowthRate: -0.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5053.4, Revenue: 2065.6.
+CompanyID: 886. Ticker: 886. Industry: Retail. ESG Overall: 63.5. GrowthRate: -1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1410.1, Revenue: 1128.8.
+CompanyID: 887. Ticker: 887. Industry: Utilities. ESG Overall: 58.0. GrowthRate: 7.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3850.6, Revenue: 4003.6.
+CompanyID: 888. Ticker: 888. Industry: Utilities. ESG Overall: 75.8. GrowthRate: -3.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 278.2, Revenue: 835.3.
+CompanyID: 889. Ticker: 889. Industry: Healthcare. ESG Overall: 27.9. GrowthRate: 14.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8604.2, Revenue: 3933.7.
+CompanyID: 890. Ticker: 890. Industry: Utilities. ESG Overall: 44.3. GrowthRate: -10.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 161.5, Revenue: 202.9.
+CompanyID: 891. Ticker: 891. Industry: Manufacturing. ESG Overall: 60.9. GrowthRate: 20.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 52872.6, Revenue: 30093.5.
+CompanyID: 892. Ticker: 892. Industry: Transportation. ESG Overall: 40.8. GrowthRate: -8.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1505.9, Revenue: 718.2.
+CompanyID: 893. Ticker: 893. Industry: Finance. ESG Overall: 64.4. GrowthRate: 21.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 14447.0, Revenue: 9447.8.
+CompanyID: 894. Ticker: 894. Industry: Healthcare. ESG Overall: 80.2. GrowthRate: 12.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 20539.8, Revenue: 15518.0.
+CompanyID: 895. Ticker: 895. Industry: Finance. ESG Overall: 61.3. GrowthRate: 0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 14500.4, Revenue: 8786.7.
+CompanyID: 896. Ticker: 896. Industry: Manufacturing. ESG Overall: 61.5. GrowthRate: -8.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 312.1, Revenue: 269.6.
+CompanyID: 897. Ticker: 897. Industry: Utilities. ESG Overall: 85.8. GrowthRate: -2.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 488.2, Revenue: 709.4.
+CompanyID: 898. Ticker: 898. Industry: Utilities. ESG Overall: 68.6. GrowthRate: -3.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1070.4, Revenue: 936.3.
+CompanyID: 899. Ticker: 899. Industry: Manufacturing. ESG Overall: 54.1. GrowthRate: 10.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8930.7, Revenue: 3580.3.
+CompanyID: 900. Ticker: 900. Industry: Utilities. ESG Overall: 25.8. GrowthRate: 5.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2082.4, Revenue: 574.9.
+CompanyID: 901. Ticker: 901. Industry: Consumer Goods. ESG Overall: 65.9. GrowthRate: 18.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 986.6, Revenue: 964.6.
+CompanyID: 902. Ticker: 902. Industry: Utilities. ESG Overall: 32.2. GrowthRate: 9.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 943.7, Revenue: 800.4.
+CompanyID: 903. Ticker: 903. Industry: Manufacturing. ESG Overall: 48.9. GrowthRate: 14.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 18738.0, Revenue: 8544.4.
+CompanyID: 904. Ticker: 904. Industry: Utilities. ESG Overall: 50.9. GrowthRate: 9.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4399.7, Revenue: 1982.5.
+CompanyID: 905. Ticker: 905. Industry: Manufacturing. ESG Overall: 68.3. GrowthRate: -0.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 369.0, Revenue: 558.7.
+CompanyID: 906. Ticker: 906. Industry: Energy. ESG Overall: 71.8. GrowthRate: -0.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10316.6, Revenue: 7664.5.
+CompanyID: 907. Ticker: 907. Industry: Transportation. ESG Overall: 52.1. GrowthRate: 9.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1315.5, Revenue: 968.5.
+CompanyID: 908. Ticker: 908. Industry: Technology. ESG Overall: 67.7. GrowthRate: 7.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 28488.0, Revenue: 8189.3.
+CompanyID: 909. Ticker: 909. Industry: Finance. ESG Overall: 66.4. GrowthRate: -9.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13045.8, Revenue: 3392.0.
+CompanyID: 910. Ticker: 910. Industry: Finance. ESG Overall: 77.5. GrowthRate: 4.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10204.3, Revenue: 3283.9.
+CompanyID: 911. Ticker: 911. Industry: Manufacturing. ESG Overall: 86.2. GrowthRate: 4.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1689.7, Revenue: 438.0.
+CompanyID: 912. Ticker: 912. Industry: Finance. ESG Overall: 80.6. GrowthRate: 11.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4495.3, Revenue: 1765.3.
+CompanyID: 913. Ticker: 913. Industry: Transportation. ESG Overall: 65.2. GrowthRate: 2.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1691.8, Revenue: 1184.3.
+CompanyID: 914. Ticker: 914. Industry: Utilities. ESG Overall: 51.5. GrowthRate: -8.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3416.9, Revenue: 1812.5.
+CompanyID: 915. Ticker: 915. Industry: Manufacturing. ESG Overall: 38.9. GrowthRate: -12.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1224.4, Revenue: 1111.7.
+CompanyID: 916. Ticker: 916. Industry: Manufacturing. ESG Overall: 73.4. GrowthRate: 7.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2211.3, Revenue: 1468.4.
+CompanyID: 917. Ticker: 917. Industry: Energy. ESG Overall: 32.0. GrowthRate: 7.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 59528.3, Revenue: 15478.0.
+CompanyID: 918. Ticker: 918. Industry: Utilities. ESG Overall: 61.4. GrowthRate: 7.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2008.0, Revenue: 1848.8.
+CompanyID: 919. Ticker: 919. Industry: Consumer Goods. ESG Overall: 86.7. GrowthRate: 14.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1950.3, Revenue: 13844.0.
+CompanyID: 920. Ticker: 920. Industry: Finance. ESG Overall: 68.4. GrowthRate: -0.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2426.1, Revenue: 1191.7.
+CompanyID: 921. Ticker: 921. Industry: Healthcare. ESG Overall: 82.1. GrowthRate: 6.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 26312.7, Revenue: 6613.5.
+CompanyID: 922. Ticker: 922. Industry: Healthcare. ESG Overall: 73.7. GrowthRate: 1.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1480.9, Revenue: 991.3.
+CompanyID: 923. Ticker: 923. Industry: Transportation. ESG Overall: 53.7. GrowthRate: 11.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 162.3, Revenue: 1212.3.
+CompanyID: 924. Ticker: 924. Industry: Retail. ESG Overall: 51.1. GrowthRate: 5.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 396.5, Revenue: 916.3.
+CompanyID: 925. Ticker: 925. Industry: Utilities. ESG Overall: 41.2. GrowthRate: -7.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1332.8, Revenue: 950.9.
+CompanyID: 926. Ticker: 926. Industry: Retail. ESG Overall: 30.5. GrowthRate: 6.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 632.7, Revenue: 361.5.
+CompanyID: 927. Ticker: 927. Industry: Manufacturing. ESG Overall: 65.4. GrowthRate: 9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1035.9, Revenue: 784.8.
+CompanyID: 928. Ticker: 928. Industry: Healthcare. ESG Overall: 71.7. GrowthRate: 2.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 45699.8, Revenue: 7429.9.
+CompanyID: 929. Ticker: 929. Industry: Manufacturing. ESG Overall: 68.2. GrowthRate: 3.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1271.8, Revenue: 1210.3.
+CompanyID: 930. Ticker: 930. Industry: Transportation. ESG Overall: 45.1. GrowthRate: 6.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2327.6, Revenue: 495.2.
+CompanyID: 931. Ticker: 931. Industry: Energy. ESG Overall: 44.5. GrowthRate: -19.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7584.2, Revenue: 2663.5.
+CompanyID: 932. Ticker: 932. Industry: Manufacturing. ESG Overall: 51.0. GrowthRate: 8.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 351.0, Revenue: 324.8.
+CompanyID: 933. Ticker: 933. Industry: Consumer Goods. ESG Overall: 59.6. GrowthRate: 3.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 11078.0, Revenue: 3858.1.
+CompanyID: 934. Ticker: 934. Industry: Consumer Goods. ESG Overall: 44.6. GrowthRate: 9.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7132.3, Revenue: 2156.1.
+CompanyID: 935. Ticker: 935. Industry: Consumer Goods. ESG Overall: 69.4. GrowthRate: 10.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3870.8, Revenue: 1832.8.
+CompanyID: 936. Ticker: 936. Industry: Energy. ESG Overall: 44.2. GrowthRate: 6.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5905.6, Revenue: 3197.2.
+CompanyID: 937. Ticker: 937. Industry: Technology. ESG Overall: 92.2. GrowthRate: 10.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 79167.8, Revenue: 10244.8.
+CompanyID: 938. Ticker: 938. Industry: Consumer Goods. ESG Overall: 68.2. GrowthRate: 3.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7918.1, Revenue: 2144.8.
+CompanyID: 939. Ticker: 939. Industry: Consumer Goods. ESG Overall: 69.9. GrowthRate: -1.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1840.7, Revenue: 701.8.
+CompanyID: 940. Ticker: 940. Industry: Healthcare. ESG Overall: 51.5. GrowthRate: 6.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1664.0, Revenue: 988.5.
+CompanyID: 941. Ticker: 941. Industry: Consumer Goods. ESG Overall: 45.1. GrowthRate: 3.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8675.8, Revenue: 7028.0.
+CompanyID: 942. Ticker: 942. Industry: Transportation. ESG Overall: 43.0. GrowthRate: 4.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 443.7, Revenue: 564.1.
+CompanyID: 943. Ticker: 943. Industry: Transportation. ESG Overall: 54.1. GrowthRate: 4.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2603.7, Revenue: 1326.1.
+CompanyID: 944. Ticker: 944. Industry: Finance. ESG Overall: 54.5. GrowthRate: -6.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 6448.7, Revenue: 2252.2.
+CompanyID: 945. Ticker: 945. Industry: Finance. ESG Overall: 71.2. GrowthRate: 15.6. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1409.9, Revenue: 3622.1.
+CompanyID: 946. Ticker: 946. Industry: Healthcare. ESG Overall: 74.3. GrowthRate: 14.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 9653.4, Revenue: 3164.0.
+CompanyID: 947. Ticker: 947. Industry: Retail. ESG Overall: 41.8. GrowthRate: -7.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4165.7, Revenue: 3861.6.
+CompanyID: 948. Ticker: 948. Industry: Retail. ESG Overall: 31.4. GrowthRate: 11.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 467.3, Revenue: 1573.8.
+CompanyID: 949. Ticker: 949. Industry: Transportation. ESG Overall: 43.3. GrowthRate: 3.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4417.7, Revenue: 1438.0.
+CompanyID: 950. Ticker: 950. Industry: Technology. ESG Overall: 38.1. GrowthRate: -8.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 77210.6, Revenue: 10192.6.
+CompanyID: 951. Ticker: 951. Industry: Transportation. ESG Overall: 70.5. GrowthRate: 8.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1546.0, Revenue: 434.5.
+CompanyID: 952. Ticker: 952. Industry: Energy. ESG Overall: 32.1. GrowthRate: 12.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 23798.1, Revenue: 6877.7.
+CompanyID: 953. Ticker: 953. Industry: Technology. ESG Overall: 38.3. GrowthRate: 22.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 30086.8, Revenue: 6218.1.
+CompanyID: 954. Ticker: 954. Industry: Utilities. ESG Overall: 53.5. GrowthRate: -2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1120.3, Revenue: 1102.1.
+CompanyID: 955. Ticker: 955. Industry: Transportation. ESG Overall: 66.6. GrowthRate: 0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4161.8, Revenue: 1216.6.
+CompanyID: 956. Ticker: 956. Industry: Finance. ESG Overall: 60.0. GrowthRate: 5.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 15794.5, Revenue: 5813.1.
+CompanyID: 957. Ticker: 957. Industry: Technology. ESG Overall: 51.9. GrowthRate: 18.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 14248.2, Revenue: 2282.9.
+CompanyID: 958. Ticker: 958. Industry: Healthcare. ESG Overall: 52.6. GrowthRate: -5.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7602.7, Revenue: 2012.2.
+CompanyID: 959. Ticker: 959. Industry: Manufacturing. ESG Overall: 48.3. GrowthRate: -11.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2063.0, Revenue: 1116.5.
+CompanyID: 960. Ticker: 960. Industry: Energy. ESG Overall: 47.5. GrowthRate: 9.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 26336.5, Revenue: 14943.0.
+CompanyID: 961. Ticker: 961. Industry: Transportation. ESG Overall: 53.1. GrowthRate: -8.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 59.8, Revenue: 140.6.
+CompanyID: 962. Ticker: 962. Industry: Finance. ESG Overall: 53.0. GrowthRate: 8.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8881.7, Revenue: 2918.7.
+CompanyID: 963. Ticker: 963. Industry: Transportation. ESG Overall: 39.5. GrowthRate: -8.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4665.8, Revenue: 4739.7.
+CompanyID: 964. Ticker: 964. Industry: Technology. ESG Overall: 52.7. GrowthRate: 2.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 17710.2, Revenue: 8091.3.
+CompanyID: 965. Ticker: 965. Industry: Healthcare. ESG Overall: 53.7. GrowthRate: 9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 14201.1, Revenue: 2952.4.
+CompanyID: 966. Ticker: 966. Industry: Manufacturing. ESG Overall: 82.7. GrowthRate: -10.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 508.4, Revenue: 625.1.
+CompanyID: 967. Ticker: 967. Industry: Technology. ESG Overall: 94.1. GrowthRate: 17.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 70101.1, Revenue: 31905.9.
+CompanyID: 968. Ticker: 968. Industry: Healthcare. ESG Overall: 62.5. GrowthRate: 4.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 1311.8, Revenue: 3253.1.
+CompanyID: 969. Ticker: 969. Industry: Technology. ESG Overall: 44.1. GrowthRate: 4.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 23595.8, Revenue: 6717.9.
+CompanyID: 970. Ticker: 970. Industry: Healthcare. ESG Overall: 72.5. GrowthRate: 16.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 14070.1, Revenue: 6722.7.
+CompanyID: 971. Ticker: 971. Industry: Healthcare. ESG Overall: 55.5. GrowthRate: 6.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3568.5, Revenue: 2317.6.
+CompanyID: 972. Ticker: 972. Industry: Finance. ESG Overall: 59.1. GrowthRate: 3.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2979.6, Revenue: 1596.4.
+CompanyID: 973. Ticker: 973. Industry: Transportation. ESG Overall: 35.0. GrowthRate: 7.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 212.1, Revenue: 476.9.
+CompanyID: 974. Ticker: 974. Industry: Energy. ESG Overall: 50.9. GrowthRate: 12.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 66417.2, Revenue: 19581.8.
+CompanyID: 975. Ticker: 975. Industry: Consumer Goods. ESG Overall: 79.9. GrowthRate: 7.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 3193.4, Revenue: 2224.3.
+CompanyID: 976. Ticker: 976. Industry: Utilities. ESG Overall: 27.6. GrowthRate: -5.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2086.7, Revenue: 1217.3.
+CompanyID: 977. Ticker: 977. Industry: Energy. ESG Overall: 63.1. GrowthRate: 13.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 18467.4, Revenue: 6501.8.
+CompanyID: 978. Ticker: 978. Industry: Transportation. ESG Overall: 60.4. GrowthRate: 10.5. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7230.1, Revenue: 4789.9.
+CompanyID: 979. Ticker: 979. Industry: Energy. ESG Overall: 52.3. GrowthRate: 9.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 34475.6, Revenue: 21474.8.
+CompanyID: 980. Ticker: 980. Industry: Retail. ESG Overall: 59.5. GrowthRate: 16.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 13340.8, Revenue: 3785.2.
+CompanyID: 981. Ticker: 981. Industry: Utilities. ESG Overall: 46.8. GrowthRate: -0.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 487.7, Revenue: 1803.6.
+CompanyID: 982. Ticker: 982. Industry: Technology. ESG Overall: 77.6. GrowthRate: 13.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 52639.6, Revenue: 6710.5.
+CompanyID: 983. Ticker: 983. Industry: Retail. ESG Overall: 68.5. GrowthRate: 10.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 903.6, Revenue: 624.9.
+CompanyID: 984. Ticker: 984. Industry: Utilities. ESG Overall: 50.9. GrowthRate: -8.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 250.0, Revenue: 326.1.
+CompanyID: 985. Ticker: 985. Industry: Healthcare. ESG Overall: 66.7. GrowthRate: 14.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 43406.0, Revenue: 13583.3.
+CompanyID: 986. Ticker: 986. Industry: Retail. ESG Overall: 33.3. GrowthRate: 15.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 8056.7, Revenue: 6466.6.
+CompanyID: 987. Ticker: 987. Industry: Consumer Goods. ESG Overall: 54.6. GrowthRate: 3.2. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4053.0, Revenue: 1724.9.
+CompanyID: 988. Ticker: 988. Industry: Consumer Goods. ESG Overall: 75.7. GrowthRate: 7.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10354.9, Revenue: 17491.0.
+CompanyID: 989. Ticker: 989. Industry: Energy. ESG Overall: 43.4. GrowthRate: 9.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10023.3, Revenue: 6509.1.
+CompanyID: 990. Ticker: 990. Industry: Consumer Goods. ESG Overall: 41.7. GrowthRate: 9.8. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 10906.5, Revenue: 3723.8.
+CompanyID: 991. Ticker: 991. Industry: Transportation. ESG Overall: 48.4. GrowthRate: 9.7. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 459.0, Revenue: 1217.1.
+CompanyID: 992. Ticker: 992. Industry: Consumer Goods. ESG Overall: 65.1. GrowthRate: 3.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 2242.3, Revenue: 1180.5.
+CompanyID: 993. Ticker: 993. Industry: Healthcare. ESG Overall: 71.0. GrowthRate: 21.9. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 31533.9, Revenue: 8472.9.
+CompanyID: 994. Ticker: 994. Industry: Manufacturing. ESG Overall: 59.4. GrowthRate: 9.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 7099.6, Revenue: 2372.4.
+CompanyID: 995. Ticker: 995. Industry: Healthcare. ESG Overall: 63.8. GrowthRate: 17.4. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 4865.8, Revenue: 2805.6.
+CompanyID: 996. Ticker: 996. Industry: Healthcare. ESG Overall: 60.4. GrowthRate: -7.0. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 25775.5, Revenue: 5503.9.
+CompanyID: 997. Ticker: 997. Industry: Utilities. ESG Overall: 66.7. GrowthRate: 1.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 818.5, Revenue: 642.9.
+CompanyID: 998. Ticker: 998. Industry: Healthcare. ESG Overall: 65.6. GrowthRate: 11.1. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 12788.3, Revenue: 2042.3.
+CompanyID: 999. Ticker: 999. Industry: Finance. ESG Overall: 53.1. GrowthRate: 4.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 19402.0, Revenue: 5700.3.
+CompanyID: 1000. Ticker: 1000. Industry: Consumer Goods. ESG Overall: 51.8. GrowthRate: -0.3. Financial sentiment mean: 0.00. Twitter sentiment mean: 0.00. MarketCap: 5666.1, Revenue: 3173.5.
