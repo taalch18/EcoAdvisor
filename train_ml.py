@@ -35,17 +35,12 @@ def load_dataset(path: str) -> pd.DataFrame:
     return df
 
 
-def add_lag_features(df: pd.DataFrame, lag_cols: list[str], group_col: str) -> pd.DataFrame:
-    df = df.copy()
-    for col in lag_cols:
-        df[f"{col}_lag1"] = df.groupby(group_col)[col].shift(1)
-    return df
-
-
 def main():
     df = load_dataset(master_path)
 
     target = "GrowthRate"
+
+    # Define exact features matching RAG/Inference requirements
     features = [
         "Revenue",
         "ProfitMargin",
@@ -59,29 +54,20 @@ def main():
         "EnergyConsumption",
         "fin_sent_mean",
         "tw_sent_mean",
+        "Revenue_lag1",
+        "MarketCap_lag1",
+        "ESG_Overall_lag1"
     ]
 
-    # One-hot encode categorical columns
-    cat_cols = ["Industry", "Region", "ESG_Bucket"]
-    present_cat_cols = [c for c in cat_cols if c in df.columns]
-    if present_cat_cols:
-        df = pd.get_dummies(df, columns=present_cat_cols, drop_first=True)
-
-    # Add lag features for time series signal
-    lag_cols = ["Revenue", "MarketCap", "ESG_Overall"]
-    df = add_lag_features(df, lag_cols=lag_cols, group_col="CompanyID")
-
-    lag_feature_names = [f"{col}_lag1" for col in lag_cols]
-    features = features + lag_feature_names
-
-    # Drop rows where lags or target are missing (first year per company will be missing lag)
-    needed_cols = lag_feature_names + [target]
-    df = df.dropna(subset=[c for c in needed_cols if c in df.columns])
-
-    # Remove missing feature columns safely (in case master_combined is incomplete)
+    # Check if features exist
     missing = [c for c in features + [target] if c not in df.columns]
     if missing:
+        # If lags are missing, we could calculate them, but preprocess_simple should have done it.
+        log(f"Missing columns: {missing}", "ERROR")
         raise ValueError(f"Missing required columns in master dataset: {missing}")
+
+    # Drop rows with missing target or features (lags introduce NaNs)
+    df = df.dropna(subset=features + [target])
 
     X = df[features]
     y = df[target]
